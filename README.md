@@ -79,18 +79,17 @@ These findings describe only this synthetic sample. They are not market facts or
 
 ## Visualizations
 
-### Monthly sales
-![Monthly sales](visualizations/monthly_sales.png)
+### Monthly Sales
+![Monthly Sales](visualizations/monthly_sales.png)
 
-### Sales by category
-![Sales by category](visualizations/sales_by_category.png)
+### Sales by Category
+![Sales by Category](visualizations/sales_by_category.png)
 
-### Profit by region
-![Profit by region](visualizations/profit_by_region.png)
+### Profit by Region
+![Profit by Region](visualizations/profit_by_region.png)
 
-### Orders by payment method
-![Orders by payment method](visualizations/orders_by_payment_method.png)
-
+### Orders by Payment Method
+![Orders by Payment Method](visualizations/orders_by_payment_method.png)
 ## Run the Python analysis
 1. Install Python 3.10 or later.
 2. Download or clone this repository.
@@ -125,7 +124,12 @@ Follow `powerbi/POWER_BI_GUIDE.md`. The repository includes DAX measures and a s
 - Customer identifiers are simulated.
 
 ## Author
-Add your name, LinkedIn URL and GitHub profile here before publishing.
+
+**Sanchita Pohkar**
+
+B.Sc. Data Science and Analytics Student
+Linkedin: https://www.linkedin.com/in/sanchitapohkar2812a62327/
+GitHub: https://github.com/sanchita-1111
 
 ## License
 This project is shared for educational and portfolio use. You may add an MIT License if you want to permit reuse with attribution.
