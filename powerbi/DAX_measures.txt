@@ -1,0 +1,19 @@
+Total Sales = SUM(retail_sales[Sales_INR])
+
+Total Profit = SUM(retail_sales[Profit_INR])
+
+Total Orders = DISTINCTCOUNT(retail_sales[Order_ID])
+
+Units Sold = SUM(retail_sales[Quantity])
+
+Average Order Value = DIVIDE([Total Sales], [Total Orders])
+
+Profit Margin % = DIVIDE([Total Profit], [Total Sales])
+
+Unique Customers = DISTINCTCOUNT(retail_sales[Customer_ID])
+
+Sales Previous Month =
+CALCULATE([Total Sales], DATEADD('Calendar'[Date], -1, MONTH))
+
+Sales MoM Change % =
+DIVIDE([Total Sales] - [Sales Previous Month], [Sales Previous Month])

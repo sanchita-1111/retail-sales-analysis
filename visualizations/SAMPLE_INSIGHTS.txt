@@ -1,0 +1,5 @@
+Generated synthetic sample only. Total sales INR: 3457079.55
+Total profit INR: 1563929.55
+Top sales category: Electronics
+Top profit region: West
+Most-used payment method: Debit Card

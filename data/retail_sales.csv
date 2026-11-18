@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Customer_ID,Region,City,Category,Product,Quantity,Unit_Price_INR,Discount_Rate,Sales_INR,Cost_INR,Profit_INR,Payment_Method
+ORD00381,2025-01-02,CUST0251,West,Ahmedabad,Electronics,Bluetooth Speaker,5,1899,0.1,8545.5,5600,2945.5,Credit Card
+ORD00773,2025-01-02,CUST0234,East,Bhubaneswar,Home & Kitchen,Storage Organizer,2,899,0.15,1528.3,860,668.3,UPI
+ORD00901,2025-01-02,CUST0261,South,Hyderabad,Clothing,Denim Jeans,1,1799,0.05,1709.05,900,809.05,Net Banking
+ORD00845,2025-01-02,CUST0344,South,Chennai,Clothing,Casual Shirt,4,1199,0.05,4556.2,2240,2316.2,Debit Card
+ORD00846,2025-01-02,CUST0275,North,Chandigarh,Home & Kitchen,Desk Lamp,3,1299,0.1,3507.3,2070,1437.3,Net Banking
+ORD00465,2025-01-03,CUST0212,North,Chandigarh,Beauty,Moisturizer,1,549,0.05,521.55,245,276.55,UPI
+ORD00104,2025-01-03,CUST0167,North,Jaipur,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Net Banking
+ORD01190,2025-01-03,CUST0331,North,Delhi,Beauty,Sunscreen,3,399,0.05,1137.15,510,627.15,Credit Card
+ORD00707,2025-01-03,CUST0051,West,Mumbai,Clothing,Denim Jeans,3,1799,0.05,5127.15,2700,2427.15,Debit Card
+ORD00575,2025-01-03,CUST0132,East,Patna,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,Debit Card
+ORD00303,2025-01-04,CUST0122,East,Patna,Home & Kitchen,Desk Lamp,1,1299,0.05,1234.05,690,544.05,UPI
+ORD01070,2025-01-04,CUST0270,North,Jaipur,Electronics,Wireless Mouse,4,799,0.0,3196.0,1880,1316.0,Cash
+ORD01175,2025-01-04,CUST0202,West,Ahmedabad,Home & Kitchen,Water Bottle,5,499,0.05,2370.25,1100,1270.25,UPI
+ORD00790,2025-01-05,CUST0162,Central,Bhopal,Home & Kitchen,Desk Lamp,2,1299,0.05,2468.1,1380,1088.1,Credit Card
+ORD00801,2025-01-05,CUST0128,Central,Indore,Clothing,Casual Shirt,5,1199,0.05,5695.25,2800,2895.25,Cash
+ORD01038,2025-01-06,CUST0350,Central,Nagpur,Clothing,Denim Jeans,5,1799,0.1,8095.5,4500,3595.5,Debit Card
+ORD00410,2025-01-06,CUST0060,West,Ahmedabad,Beauty,Moisturizer,4,549,0.05,2086.2,980,1106.2,Net Banking
+ORD00839,2025-01-06,CUST0176,North,Chandigarh,Home & Kitchen,Desk Lamp,2,1299,0.15,2208.3,1380,828.3,Credit Card
+ORD00889,2025-01-06,CUST0148,North,Delhi,Electronics,Wireless Mouse,2,799,0.0,1598.0,940,658.0,Credit Card
+ORD01121,2025-01-06,CUST0101,East,Kolkata,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,UPI
+ORD00478,2025-01-07,CUST0073,North,Chandigarh,Electronics,Bluetooth Speaker,3,1899,0.0,5697.0,3360,2337.0,Cash
+ORD00415,2025-01-07,CUST0109,East,Kolkata,Clothing,Casual Shirt,2,1199,0.0,2398.0,1120,1278.0,Debit Card
+ORD00233,2025-01-08,CUST0066,North,Delhi,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,UPI
+ORD00540,2025-01-08,CUST0047,West,Ahmedabad,Beauty,Moisturizer,3,549,0.0,1647.0,735,912.0,UPI
+ORD00300,2025-01-08,CUST0334,North,Jaipur,Home & Kitchen,Desk Lamp,3,1299,0.0,3897.0,2070,1827.0,Credit Card
+ORD01167,2025-01-09,CUST0183,East,Kolkata,Home & Kitchen,Storage Organizer,1,899,0.1,809.1,430,379.1,Debit Card
+ORD00369,2025-01-09,CUST0119,North,Delhi,Beauty,Moisturizer,2,549,0.05,1043.1,490,553.1,Debit Card
+ORD00821,2025-01-09,CUST0091,East,Patna,Beauty,Sunscreen,2,399,0.0,798.0,340,458.0,UPI
+ORD00272,2025-01-09,CUST0022,East,Patna,Beauty,Face Wash,1,299,0.1,269.1,125,144.1,Cash
+ORD00170,2025-01-09,CUST0279,Central,Bhopal,Clothing,Casual Shirt,3,1199,0.05,3417.15,1680,1737.15,Credit Card
+ORD00429,2025-01-10,CUST0302,Central,Indore,Electronics,Wireless Mouse,1,799,0.1,719.1,470,249.1,Credit Card
+ORD01180,2025-01-10,CUST0082,East,Kolkata,Electronics,Bluetooth Speaker,3,1899,0.0,5697.0,3360,2337.0,Debit Card
+ORD00454,2025-01-10,CUST0079,East,Bhubaneswar,Electronics,USB-C Hub,3,1499,0.15,3822.45,2640,1182.45,UPI
+ORD00830,2025-01-11,CUST0322,East,Bhubaneswar,Electronics,Bluetooth Speaker,4,1899,0.1,6836.4,4480,2356.4,UPI
+ORD00138,2025-01-12,CUST0340,South,Hyderabad,Beauty,Sunscreen,2,399,0.0,798.0,340,458.0,Debit Card
+ORD00385,2025-01-12,CUST0103,East,Patna,Electronics,Bluetooth Speaker,2,1899,0.05,3608.1,2240,1368.1,Net Banking
+ORD00787,2025-01-12,CUST0176,South,Chennai,Beauty,Moisturizer,4,549,0.05,2086.2,980,1106.2,Debit Card
+ORD00147,2025-01-13,CUST0027,East,Kolkata,Beauty,Face Wash,3,299,0.15,762.45,375,387.45,Net Banking
+ORD00663,2025-01-13,CUST0194,East,Patna,Home & Kitchen,Water Bottle,5,499,0.0,2495.0,1100,1395.0,Credit Card
+ORD00970,2025-01-14,CUST0233,Central,Indore,Home & Kitchen,Water Bottle,2,499,0.05,948.1,440,508.1,Debit Card
+ORD00117,2025-01-14,CUST0057,North,Chandigarh,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,UPI
+ORD00844,2025-01-14,CUST0317,South,Hyderabad,Electronics,Wireless Mouse,3,799,0.05,2277.15,1410,867.15,Debit Card
+ORD00328,2025-01-14,CUST0305,North,Chandigarh,Beauty,Moisturizer,2,549,0.0,1098.0,490,608.0,Debit Card
+ORD00870,2025-01-15,CUST0231,East,Bhubaneswar,Beauty,Face Wash,4,299,0.05,1136.2,500,636.2,Cash
+ORD00817,2025-01-16,CUST0272,North,Jaipur,Beauty,Sunscreen,4,399,0.1,1436.4,680,756.4,Net Banking
+ORD00056,2025-01-16,CUST0200,South,Chennai,Beauty,Moisturizer,2,549,0.05,1043.1,490,553.1,Debit Card
+ORD00562,2025-01-16,CUST0254,East,Bhubaneswar,Beauty,Moisturizer,2,549,0.05,1043.1,490,553.1,UPI
+ORD01099,2025-01-16,CUST0062,North,Delhi,Electronics,Wireless Mouse,4,799,0.05,3036.2,1880,1156.2,Net Banking
+ORD01019,2025-01-16,CUST0058,North,Delhi,Clothing,Cotton T-Shirt,3,599,0.1,1617.3,780,837.3,Cash
+ORD00250,2025-01-16,CUST0102,South,Chennai,Clothing,Cotton T-Shirt,4,599,0.0,2396.0,1040,1356.0,Cash
+ORD00902,2025-01-16,CUST0241,North,Chandigarh,Home & Kitchen,Desk Lamp,2,1299,0.05,2468.1,1380,1088.1,Net Banking
+ORD01110,2025-01-17,CUST0286,West,Ahmedabad,Clothing,Casual Shirt,2,1199,0.1,2158.2,1120,1038.2,Cash
+ORD00811,2025-01-17,CUST0233,Central,Indore,Beauty,Moisturizer,1,549,0.0,549.0,245,304.0,Debit Card
+ORD00397,2025-01-17,CUST0124,Central,Indore,Electronics,Wireless Mouse,1,799,0.0,799.0,470,329.0,UPI
+ORD00352,2025-01-17,CUST0141,East,Kolkata,Beauty,Sunscreen,3,399,0.15,1017.45,510,507.45,UPI
+ORD00574,2025-01-18,CUST0278,West,Pune,Beauty,Face Wash,2,299,0.0,598.0,250,348.0,Net Banking
+ORD00584,2025-01-19,CUST0284,West,Ahmedabad,Clothing,Denim Jeans,1,1799,0.05,1709.05,900,809.05,Cash
+ORD00848,2025-01-19,CUST0288,North,Jaipur,Beauty,Sunscreen,1,399,0.0,399.0,170,229.0,UPI
+ORD00699,2025-01-19,CUST0053,West,Pune,Electronics,USB-C Hub,5,1499,0.0,7495.0,4400,3095.0,Credit Card
+ORD00546,2025-01-20,CUST0203,East,Kolkata,Beauty,Sunscreen,5,399,0.05,1895.25,850,1045.25,Credit Card
+ORD00898,2025-01-20,CUST0291,West,Ahmedabad,Home & Kitchen,Storage Organizer,3,899,0.15,2292.45,1290,1002.45,Credit Card
+ORD00887,2025-01-20,CUST0109,Central,Bhopal,Electronics,USB-C Hub,1,1499,0.05,1424.05,880,544.05,Cash
+ORD00542,2025-01-21,CUST0113,North,Delhi,Electronics,USB-C Hub,1,1499,0.05,1424.05,880,544.05,UPI
+ORD00858,2025-01-21,CUST0225,North,Delhi,Beauty,Sunscreen,4,399,0.0,1596.0,680,916.0,Net Banking
+ORD01026,2025-01-21,CUST0109,West,Ahmedabad,Beauty,Sunscreen,2,399,0.1,718.2,340,378.2,Credit Card
+ORD01021,2025-01-21,CUST0233,North,Chandigarh,Beauty,Face Wash,1,299,0.1,269.1,125,144.1,Debit Card
+ORD00150,2025-01-22,CUST0046,East,Patna,Clothing,Denim Jeans,2,1799,0.0,3598.0,1800,1798.0,UPI
+ORD01136,2025-01-22,CUST0148,South,Chennai,Clothing,Casual Shirt,4,1199,0.1,4316.4,2240,2076.4,UPI
+ORD00619,2025-01-23,CUST0084,West,Pune,Electronics,Wireless Mouse,1,799,0.05,759.05,470,289.05,Cash
+ORD00279,2025-01-24,CUST0146,West,Ahmedabad,Electronics,USB-C Hub,2,1499,0.0,2998.0,1760,1238.0,Debit Card
+ORD00036,2025-01-24,CUST0349,West,Pune,Beauty,Moisturizer,1,549,0.1,494.1,245,249.1,Net Banking
+ORD01035,2025-01-25,CUST0113,Central,Nagpur,Beauty,Face Wash,2,299,0.05,568.1,250,318.1,Credit Card
+ORD00045,2025-01-25,CUST0342,East,Kolkata,Electronics,Bluetooth Speaker,2,1899,0.05,3608.1,2240,1368.1,Net Banking
+ORD00518,2025-01-25,CUST0202,West,Mumbai,Electronics,USB-C Hub,5,1499,0.0,7495.0,4400,3095.0,Credit Card
+ORD00387,2025-01-25,CUST0013,West,Pune,Clothing,Casual Shirt,4,1199,0.0,4796.0,2240,2556.0,Net Banking
+ORD00899,2025-01-26,CUST0041,West,Ahmedabad,Home & Kitchen,Water Bottle,2,499,0.0,998.0,440,558.0,Net Banking
+ORD01022,2025-01-27,CUST0218,Central,Indore,Home & Kitchen,Desk Lamp,5,1299,0.0,6495.0,3450,3045.0,Cash
+ORD00659,2025-01-27,CUST0294,West,Pune,Electronics,USB-C Hub,3,1499,0.05,4272.15,2640,1632.15,Net Banking
+ORD01055,2025-01-28,CUST0027,South,Chennai,Clothing,Casual Shirt,1,1199,0.0,1199.0,560,639.0,UPI
+ORD00069,2025-01-28,CUST0022,Central,Indore,Electronics,Wireless Mouse,1,799,0.0,799.0,470,329.0,Debit Card
+ORD01027,2025-01-29,CUST0263,Central,Bhopal,Home & Kitchen,Storage Organizer,4,899,0.1,3236.4,1720,1516.4,UPI
+ORD00127,2025-01-29,CUST0010,East,Bhubaneswar,Electronics,Bluetooth Speaker,1,1899,0.05,1804.05,1120,684.05,Credit Card
+ORD00217,2025-01-29,CUST0149,Central,Bhopal,Clothing,Cotton T-Shirt,4,599,0.0,2396.0,1040,1356.0,UPI
+ORD01096,2025-01-30,CUST0038,West,Pune,Clothing,Denim Jeans,2,1799,0.0,3598.0,1800,1798.0,Net Banking
+ORD00439,2025-01-30,CUST0283,North,Jaipur,Beauty,Sunscreen,4,399,0.15,1356.6,680,676.6,Net Banking
+ORD00280,2025-01-31,CUST0256,South,Chennai,Clothing,Cotton T-Shirt,2,599,0.1,1078.2,520,558.2,Debit Card
+ORD01122,2025-01-31,CUST0052,South,Bengaluru,Clothing,Casual Shirt,2,1199,0.0,2398.0,1120,1278.0,Net Banking
+ORD00431,2025-01-31,CUST0199,West,Pune,Electronics,Wireless Mouse,5,799,0.0,3995.0,2350,1645.0,Net Banking
+ORD00246,2025-01-31,CUST0118,East,Patna,Electronics,Bluetooth Speaker,3,1899,0.1,5127.3,3360,1767.3,Debit Card
+ORD00678,2025-01-31,CUST0165,South,Bengaluru,Electronics,Bluetooth Speaker,3,1899,0.15,4842.45,3360,1482.45,Net Banking
+ORD00196,2025-02-01,CUST0234,West,Mumbai,Electronics,Wireless Mouse,5,799,0.15,3395.75,2350,1045.75,Net Banking
+ORD00007,2025-02-01,CUST0334,Central,Bhopal,Beauty,Moisturizer,1,549,0.0,549.0,245,304.0,UPI
+ORD00881,2025-02-01,CUST0329,West,Mumbai,Electronics,Bluetooth Speaker,4,1899,0.0,7596.0,4480,3116.0,UPI
+ORD00753,2025-02-01,CUST0349,East,Patna,Electronics,USB-C Hub,4,1499,0.15,5096.6,3520,1576.6,Cash
+ORD00728,2025-02-02,CUST0220,South,Hyderabad,Electronics,Bluetooth Speaker,5,1899,0.05,9020.25,5600,3420.25,Cash
+ORD00172,2025-02-02,CUST0298,South,Chennai,Electronics,Bluetooth Speaker,3,1899,0.15,4842.45,3360,1482.45,Credit Card
+ORD00695,2025-02-02,CUST0034,West,Pune,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,UPI
+ORD00001,2025-02-02,CUST0100,West,Pune,Home & Kitchen,Desk Lamp,5,1299,0.05,6170.25,3450,2720.25,Net Banking
+ORD00359,2025-02-03,CUST0108,West,Ahmedabad,Clothing,Casual Shirt,2,1199,0.0,2398.0,1120,1278.0,Debit Card
+ORD00133,2025-02-03,CUST0031,East,Kolkata,Electronics,Wireless Mouse,2,799,0.15,1358.3,940,418.3,Debit Card
+ORD00910,2025-02-03,CUST0270,Central,Nagpur,Beauty,Face Wash,3,299,0.1,807.3,375,432.3,Credit Card
+ORD00826,2025-02-03,CUST0271,Central,Bhopal,Home & Kitchen,Desk Lamp,2,1299,0.05,2468.1,1380,1088.1,Debit Card
+ORD00033,2025-02-03,CUST0008,North,Jaipur,Clothing,Cotton T-Shirt,1,599,0.0,599.0,260,339.0,Net Banking
+ORD00700,2025-02-04,CUST0180,East,Kolkata,Home & Kitchen,Water Bottle,4,499,0.05,1896.2,880,1016.2,Net Banking
+ORD00791,2025-02-04,CUST0121,West,Mumbai,Electronics,Bluetooth Speaker,1,1899,0.05,1804.05,1120,684.05,Credit Card
+ORD00376,2025-02-04,CUST0322,North,Jaipur,Electronics,USB-C Hub,1,1499,0.0,1499.0,880,619.0,Net Banking
+ORD00977,2025-02-04,CUST0011,North,Jaipur,Electronics,Wireless Mouse,2,799,0.0,1598.0,940,658.0,Net Banking
+ORD00010,2025-02-04,CUST0186,North,Chandigarh,Beauty,Moisturizer,3,549,0.05,1564.65,735,829.65,UPI
+ORD00581,2025-02-04,CUST0339,East,Bhubaneswar,Home & Kitchen,Desk Lamp,1,1299,0.05,1234.05,690,544.05,Cash
+ORD00243,2025-02-04,CUST0296,East,Patna,Electronics,Wireless Mouse,4,799,0.0,3196.0,1880,1316.0,Net Banking
+ORD00674,2025-02-04,CUST0025,East,Bhubaneswar,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,UPI
+ORD00951,2025-02-04,CUST0273,West,Pune,Beauty,Moisturizer,4,549,0.05,2086.2,980,1106.2,Net Banking
+ORD00218,2025-02-05,CUST0301,East,Patna,Electronics,Wireless Mouse,3,799,0.05,2277.15,1410,867.15,Credit Card
+ORD00087,2025-02-05,CUST0116,West,Pune,Clothing,Cotton T-Shirt,3,599,0.1,1617.3,780,837.3,Debit Card
+ORD00588,2025-02-06,CUST0081,South,Hyderabad,Beauty,Moisturizer,3,549,0.0,1647.0,735,912.0,Credit Card
+ORD00891,2025-02-06,CUST0189,East,Bhubaneswar,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,Net Banking
+ORD00258,2025-02-07,CUST0345,North,Jaipur,Home & Kitchen,Storage Organizer,1,899,0.1,809.1,430,379.1,Debit Card
+ORD00580,2025-02-07,CUST0146,West,Ahmedabad,Beauty,Face Wash,4,299,0.0,1196.0,500,696.0,Net Banking
+ORD00583,2025-02-08,CUST0157,West,Mumbai,Beauty,Moisturizer,5,549,0.15,2333.25,1225,1108.25,Net Banking
+ORD00460,2025-02-08,CUST0197,Central,Indore,Electronics,Bluetooth Speaker,2,1899,0.05,3608.1,2240,1368.1,Debit Card
+ORD01166,2025-02-08,CUST0325,North,Delhi,Electronics,Wireless Mouse,2,799,0.0,1598.0,940,658.0,UPI
+ORD00818,2025-02-08,CUST0271,South,Bengaluru,Home & Kitchen,Water Bottle,3,499,0.1,1347.3,660,687.3,Cash
+ORD00171,2025-02-08,CUST0045,West,Pune,Beauty,Sunscreen,5,399,0.15,1695.75,850,845.75,Credit Card
+ORD00516,2025-02-08,CUST0014,Central,Nagpur,Electronics,Wireless Mouse,2,799,0.0,1598.0,940,658.0,Debit Card
+ORD00322,2025-02-09,CUST0250,West,Pune,Clothing,Casual Shirt,3,1199,0.0,3597.0,1680,1917.0,UPI
+ORD00480,2025-02-09,CUST0264,West,Mumbai,Home & Kitchen,Desk Lamp,2,1299,0.15,2208.3,1380,828.3,UPI
+ORD00310,2025-02-09,CUST0013,North,Chandigarh,Beauty,Moisturizer,5,549,0.1,2470.5,1225,1245.5,UPI
+ORD00808,2025-02-10,CUST0343,South,Bengaluru,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Credit Card
+ORD00873,2025-02-11,CUST0074,North,Delhi,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,Credit Card
+ORD00501,2025-02-11,CUST0102,North,Delhi,Beauty,Face Wash,5,299,0.1,1345.5,625,720.5,Cash
+ORD00120,2025-02-11,CUST0089,South,Chennai,Electronics,Bluetooth Speaker,4,1899,0.0,7596.0,4480,3116.0,Cash
+ORD01020,2025-02-12,CUST0208,North,Jaipur,Home & Kitchen,Water Bottle,5,499,0.1,2245.5,1100,1145.5,UPI
+ORD00538,2025-02-12,CUST0047,West,Mumbai,Clothing,Cotton T-Shirt,3,599,0.0,1797.0,780,1017.0,Debit Card
+ORD00726,2025-02-12,CUST0144,West,Ahmedabad,Beauty,Sunscreen,1,399,0.05,379.05,170,209.05,Credit Card
+ORD00365,2025-02-12,CUST0054,North,Chandigarh,Electronics,Wireless Mouse,4,799,0.0,3196.0,1880,1316.0,Net Banking
+ORD01157,2025-02-13,CUST0215,Central,Indore,Clothing,Cotton T-Shirt,4,599,0.1,2156.4,1040,1116.4,UPI
+ORD00778,2025-02-13,CUST0268,West,Mumbai,Home & Kitchen,Water Bottle,1,499,0.0,499.0,220,279.0,Debit Card
+ORD00313,2025-02-13,CUST0017,South,Hyderabad,Home & Kitchen,Storage Organizer,2,899,0.0,1798.0,860,938.0,Net Banking
+ORD00497,2025-02-13,CUST0287,North,Delhi,Electronics,Wireless Mouse,4,799,0.1,2876.4,1880,996.4,Cash
+ORD01050,2025-02-13,CUST0337,Central,Nagpur,Beauty,Sunscreen,2,399,0.0,798.0,340,458.0,Cash
+ORD00863,2025-02-13,CUST0306,East,Kolkata,Electronics,Wireless Mouse,2,799,0.15,1358.3,940,418.3,Credit Card
+ORD00946,2025-02-13,CUST0052,West,Mumbai,Electronics,USB-C Hub,5,1499,0.0,7495.0,4400,3095.0,Credit Card
+ORD00724,2025-02-13,CUST0090,West,Pune,Electronics,Wireless Mouse,1,799,0.15,679.15,470,209.15,Cash
+ORD00198,2025-02-13,CUST0076,South,Hyderabad,Beauty,Moisturizer,3,549,0.0,1647.0,735,912.0,UPI
+ORD00418,2025-02-14,CUST0171,South,Hyderabad,Clothing,Casual Shirt,4,1199,0.0,4796.0,2240,2556.0,Debit Card
+ORD00784,2025-02-14,CUST0344,East,Patna,Home & Kitchen,Storage Organizer,2,899,0.1,1618.2,860,758.2,Credit Card
+ORD00783,2025-02-14,CUST0207,East,Patna,Clothing,Denim Jeans,5,1799,0.0,8995.0,4500,4495.0,UPI
+ORD00386,2025-02-14,CUST0090,Central,Bhopal,Electronics,USB-C Hub,5,1499,0.1,6745.5,4400,2345.5,Cash
+ORD00436,2025-02-15,CUST0185,West,Pune,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,UPI
+ORD00874,2025-02-15,CUST0217,South,Bengaluru,Electronics,Wireless Mouse,2,799,0.0,1598.0,940,658.0,Cash
+ORD00221,2025-02-16,CUST0231,Central,Indore,Beauty,Face Wash,2,299,0.05,568.1,250,318.1,Debit Card
+ORD00018,2025-02-16,CUST0177,East,Patna,Home & Kitchen,Storage Organizer,5,899,0.1,4045.5,2150,1895.5,Debit Card
+ORD00759,2025-02-16,CUST0018,West,Mumbai,Electronics,Wireless Mouse,3,799,0.05,2277.15,1410,867.15,Credit Card
+ORD01005,2025-02-16,CUST0325,South,Chennai,Home & Kitchen,Water Bottle,4,499,0.05,1896.2,880,1016.2,UPI
+ORD00157,2025-02-16,CUST0168,North,Delhi,Home & Kitchen,Storage Organizer,3,899,0.15,2292.45,1290,1002.45,Net Banking
+ORD00945,2025-02-17,CUST0122,West,Ahmedabad,Electronics,USB-C Hub,5,1499,0.0,7495.0,4400,3095.0,UPI
+ORD00434,2025-02-17,CUST0286,East,Kolkata,Beauty,Moisturizer,4,549,0.1,1976.4,980,996.4,Net Banking
+ORD00705,2025-02-17,CUST0148,West,Pune,Beauty,Moisturizer,5,549,0.0,2745.0,1225,1520.0,Net Banking
+ORD00074,2025-02-17,CUST0336,Central,Bhopal,Home & Kitchen,Desk Lamp,1,1299,0.05,1234.05,690,544.05,Credit Card
+ORD00670,2025-02-18,CUST0300,South,Hyderabad,Beauty,Face Wash,1,299,0.1,269.1,125,144.1,Credit Card
+ORD00948,2025-02-18,CUST0083,West,Ahmedabad,Beauty,Face Wash,4,299,0.1,1076.4,500,576.4,Credit Card
+ORD00443,2025-02-18,CUST0156,Central,Bhopal,Electronics,Wireless Mouse,4,799,0.0,3196.0,1880,1316.0,UPI
+ORD00414,2025-02-18,CUST0137,Central,Indore,Beauty,Moisturizer,1,549,0.05,521.55,245,276.55,Debit Card
+ORD00604,2025-02-19,CUST0100,South,Chennai,Clothing,Casual Shirt,1,1199,0.0,1199.0,560,639.0,Net Banking
+ORD00823,2025-02-19,CUST0154,South,Bengaluru,Beauty,Moisturizer,4,549,0.1,1976.4,980,996.4,Debit Card
+ORD00721,2025-02-20,CUST0011,Central,Nagpur,Electronics,Wireless Mouse,1,799,0.05,759.05,470,289.05,Cash
+ORD00682,2025-02-20,CUST0085,East,Patna,Electronics,Wireless Mouse,1,799,0.0,799.0,470,329.0,Cash
+ORD01090,2025-02-21,CUST0153,South,Chennai,Home & Kitchen,Desk Lamp,1,1299,0.0,1299.0,690,609.0,Debit Card
+ORD00118,2025-02-21,CUST0346,South,Hyderabad,Beauty,Face Wash,5,299,0.0,1495.0,625,870.0,Cash
+ORD00462,2025-02-21,CUST0138,Central,Indore,Clothing,Cotton T-Shirt,1,599,0.1,539.1,260,279.1,Debit Card
+ORD00620,2025-02-21,CUST0014,South,Chennai,Home & Kitchen,Water Bottle,1,499,0.0,499.0,220,279.0,Debit Card
+ORD00306,2025-02-21,CUST0212,South,Chennai,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,UPI
+ORD00100,2025-02-21,CUST0200,South,Chennai,Home & Kitchen,Water Bottle,5,499,0.1,2245.5,1100,1145.5,UPI
+ORD00769,2025-02-21,CUST0197,South,Bengaluru,Electronics,Wireless Mouse,5,799,0.1,3595.5,2350,1245.5,UPI
+ORD00241,2025-02-21,CUST0217,West,Ahmedabad,Clothing,Cotton T-Shirt,1,599,0.05,569.05,260,309.05,Cash
+ORD01187,2025-02-21,CUST0176,Central,Bhopal,Home & Kitchen,Storage Organizer,4,899,0.0,3596.0,1720,1876.0,Debit Card
+ORD00329,2025-02-21,CUST0233,North,Jaipur,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,Credit Card
+ORD00834,2025-02-22,CUST0192,West,Mumbai,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,Cash
+ORD00924,2025-02-22,CUST0025,South,Chennai,Home & Kitchen,Water Bottle,1,499,0.0,499.0,220,279.0,UPI
+ORD01063,2025-02-22,CUST0220,North,Jaipur,Beauty,Moisturizer,3,549,0.0,1647.0,735,912.0,Credit Card
+ORD00528,2025-02-22,CUST0252,Central,Bhopal,Electronics,Bluetooth Speaker,2,1899,0.0,3798.0,2240,1558.0,Credit Card
+ORD00408,2025-02-22,CUST0133,East,Bhubaneswar,Home & Kitchen,Water Bottle,2,499,0.1,898.2,440,458.2,UPI
+ORD00256,2025-02-22,CUST0029,South,Bengaluru,Beauty,Sunscreen,2,399,0.05,758.1,340,418.1,Debit Card
+ORD00752,2025-02-23,CUST0220,Central,Indore,Clothing,Denim Jeans,2,1799,0.05,3418.1,1800,1618.1,Cash
+ORD00975,2025-02-23,CUST0320,North,Jaipur,Clothing,Casual Shirt,5,1199,0.0,5995.0,2800,3195.0,Cash
+ORD00522,2025-02-23,CUST0344,North,Delhi,Home & Kitchen,Water Bottle,1,499,0.0,499.0,220,279.0,UPI
+ORD00457,2025-02-24,CUST0165,North,Delhi,Electronics,Wireless Mouse,3,799,0.0,2397.0,1410,987.0,Debit Card
+ORD01104,2025-02-24,CUST0163,South,Hyderabad,Clothing,Casual Shirt,1,1199,0.1,1079.1,560,519.1,UPI
+ORD00938,2025-02-24,CUST0177,West,Pune,Electronics,Wireless Mouse,3,799,0.0,2397.0,1410,987.0,Cash
+ORD00390,2025-02-25,CUST0329,Central,Indore,Home & Kitchen,Water Bottle,1,499,0.0,499.0,220,279.0,Credit Card
+ORD00182,2025-02-25,CUST0210,West,Pune,Home & Kitchen,Water Bottle,3,499,0.0,1497.0,660,837.0,Cash
+ORD00273,2025-02-25,CUST0232,East,Bhubaneswar,Clothing,Casual Shirt,3,1199,0.0,3597.0,1680,1917.0,Cash
+ORD00357,2025-02-25,CUST0040,South,Chennai,Beauty,Face Wash,1,299,0.0,299.0,125,174.0,UPI
+ORD00533,2025-02-26,CUST0295,West,Mumbai,Electronics,Wireless Mouse,1,799,0.0,799.0,470,329.0,Credit Card
+ORD00536,2025-02-26,CUST0334,East,Bhubaneswar,Beauty,Face Wash,3,299,0.0,897.0,375,522.0,UPI
+ORD00058,2025-02-26,CUST0108,South,Hyderabad,Home & Kitchen,Storage Organizer,1,899,0.0,899.0,430,469.0,Cash
+ORD00961,2025-02-26,CUST0043,South,Chennai,Clothing,Cotton T-Shirt,2,599,0.0,1198.0,520,678.0,Debit Card
+ORD01046,2025-02-26,CUST0182,West,Ahmedabad,Electronics,Bluetooth Speaker,2,1899,0.05,3608.1,2240,1368.1,Cash
+ORD00884,2025-02-26,CUST0336,East,Patna,Home & Kitchen,Desk Lamp,3,1299,0.05,3702.15,2070,1632.15,Debit Card
+ORD00937,2025-02-27,CUST0332,South,Hyderabad,Beauty,Face Wash,5,299,0.0,1495.0,625,870.0,UPI
+ORD00847,2025-02-27,CUST0062,South,Bengaluru,Clothing,Cotton T-Shirt,4,599,0.1,2156.4,1040,1116.4,Credit Card
+ORD00750,2025-02-27,CUST0156,West,Pune,Beauty,Sunscreen,5,399,0.05,1895.25,850,1045.25,Net Banking
+ORD00287,2025-02-28,CUST0259,East,Patna,Electronics,Bluetooth Speaker,2,1899,0.0,3798.0,2240,1558.0,UPI
+ORD00178,2025-02-28,CUST0099,Central,Bhopal,Electronics,Bluetooth Speaker,3,1899,0.1,5127.3,3360,1767.3,Debit Card
+ORD00083,2025-02-28,CUST0184,East,Kolkata,Clothing,Casual Shirt,3,1199,0.15,3057.45,1680,1377.45,Credit Card
+ORD01076,2025-03-01,CUST0005,West,Pune,Electronics,USB-C Hub,2,1499,0.0,2998.0,1760,1238.0,Cash
+ORD00467,2025-03-02,CUST0324,South,Hyderabad,Clothing,Casual Shirt,3,1199,0.1,3237.3,1680,1557.3,Cash
+ORD00187,2025-03-02,CUST0053,North,Chandigarh,Home & Kitchen,Storage Organizer,3,899,0.05,2562.15,1290,1272.15,UPI
+ORD00041,2025-03-02,CUST0083,South,Bengaluru,Clothing,Denim Jeans,5,1799,0.05,8545.25,4500,4045.25,UPI
+ORD00623,2025-03-02,CUST0312,West,Ahmedabad,Beauty,Face Wash,5,299,0.1,1345.5,625,720.5,Net Banking
+ORD00350,2025-03-02,CUST0106,Central,Nagpur,Electronics,USB-C Hub,5,1499,0.0,7495.0,4400,3095.0,UPI
+ORD01078,2025-03-02,CUST0334,North,Jaipur,Home & Kitchen,Storage Organizer,2,899,0.15,1528.3,860,668.3,Debit Card
+ORD00532,2025-03-02,CUST0069,North,Chandigarh,Beauty,Face Wash,2,299,0.05,568.1,250,318.1,UPI
+ORD00168,2025-03-02,CUST0305,South,Chennai,Beauty,Sunscreen,3,399,0.15,1017.45,510,507.45,Net Banking
+ORD00703,2025-03-03,CUST0119,Central,Nagpur,Home & Kitchen,Storage Organizer,4,899,0.05,3416.2,1720,1696.2,Cash
+ORD00685,2025-03-03,CUST0257,North,Jaipur,Electronics,USB-C Hub,2,1499,0.1,2698.2,1760,938.2,Cash
+ORD00704,2025-03-04,CUST0183,East,Bhubaneswar,Electronics,USB-C Hub,5,1499,0.0,7495.0,4400,3095.0,Debit Card
+ORD00262,2025-03-04,CUST0220,East,Bhubaneswar,Home & Kitchen,Desk Lamp,1,1299,0.1,1169.1,690,479.1,Net Banking
+ORD01193,2025-03-04,CUST0210,South,Bengaluru,Home & Kitchen,Storage Organizer,1,899,0.15,764.15,430,334.15,Debit Card
+ORD00411,2025-03-05,CUST0024,East,Kolkata,Beauty,Face Wash,5,299,0.1,1345.5,625,720.5,Debit Card
+ORD00259,2025-03-05,CUST0342,West,Ahmedabad,Electronics,Wireless Mouse,3,799,0.0,2397.0,1410,987.0,Credit Card
+ORD00544,2025-03-05,CUST0278,West,Ahmedabad,Electronics,Wireless Mouse,1,799,0.0,799.0,470,329.0,Credit Card
+ORD01032,2025-03-05,CUST0007,North,Chandigarh,Clothing,Cotton T-Shirt,3,599,0.0,1797.0,780,1017.0,UPI
+ORD00908,2025-03-05,CUST0120,North,Delhi,Home & Kitchen,Storage Organizer,1,899,0.0,899.0,430,469.0,Net Banking
+ORD01174,2025-03-06,CUST0275,South,Hyderabad,Beauty,Moisturizer,4,549,0.15,1866.6,980,886.6,Net Banking
+ORD00661,2025-03-06,CUST0037,Central,Nagpur,Electronics,USB-C Hub,4,1499,0.05,5696.2,3520,2176.2,Credit Card
+ORD00761,2025-03-06,CUST0271,West,Pune,Beauty,Sunscreen,1,399,0.0,399.0,170,229.0,Debit Card
+ORD00230,2025-03-06,CUST0044,West,Ahmedabad,Clothing,Casual Shirt,3,1199,0.0,3597.0,1680,1917.0,Debit Card
+ORD00251,2025-03-07,CUST0173,Central,Nagpur,Electronics,Wireless Mouse,3,799,0.1,2157.3,1410,747.3,Net Banking
+ORD00392,2025-03-07,CUST0306,North,Delhi,Clothing,Denim Jeans,2,1799,0.0,3598.0,1800,1798.0,UPI
+ORD00349,2025-03-07,CUST0003,North,Jaipur,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Cash
+ORD01106,2025-03-08,CUST0014,South,Hyderabad,Home & Kitchen,Storage Organizer,1,899,0.05,854.05,430,424.05,UPI
+ORD00912,2025-03-08,CUST0028,South,Chennai,Electronics,Bluetooth Speaker,3,1899,0.0,5697.0,3360,2337.0,Credit Card
+ORD00635,2025-03-08,CUST0165,Central,Indore,Beauty,Moisturizer,4,549,0.1,1976.4,980,996.4,Cash
+ORD00023,2025-03-08,CUST0094,West,Mumbai,Beauty,Moisturizer,5,549,0.1,2470.5,1225,1245.5,Cash
+ORD00469,2025-03-08,CUST0233,South,Bengaluru,Beauty,Sunscreen,5,399,0.0,1995.0,850,1145.0,Credit Card
+ORD00564,2025-03-08,CUST0023,West,Mumbai,Electronics,Bluetooth Speaker,4,1899,0.0,7596.0,4480,3116.0,Net Banking
+ORD00253,2025-03-10,CUST0120,Central,Bhopal,Clothing,Denim Jeans,5,1799,0.05,8545.25,4500,4045.25,Cash
+ORD00072,2025-03-11,CUST0159,West,Mumbai,Beauty,Face Wash,3,299,0.05,852.15,375,477.15,Debit Card
+ORD01178,2025-03-11,CUST0095,South,Bengaluru,Beauty,Sunscreen,4,399,0.0,1596.0,680,916.0,Net Banking
+ORD01115,2025-03-12,CUST0275,East,Bhubaneswar,Beauty,Moisturizer,2,549,0.0,1098.0,490,608.0,Debit Card
+ORD00523,2025-03-12,CUST0236,West,Ahmedabad,Home & Kitchen,Water Bottle,4,499,0.05,1896.2,880,1016.2,UPI
+ORD00888,2025-03-12,CUST0334,Central,Nagpur,Electronics,Bluetooth Speaker,1,1899,0.1,1709.1,1120,589.1,Cash
+ORD01113,2025-03-12,CUST0098,East,Patna,Clothing,Cotton T-Shirt,2,599,0.05,1138.1,520,618.1,Net Banking
+ORD00543,2025-03-13,CUST0153,Central,Indore,Beauty,Sunscreen,3,399,0.05,1137.15,510,627.15,Credit Card
+ORD00398,2025-03-13,CUST0031,South,Bengaluru,Home & Kitchen,Desk Lamp,1,1299,0.0,1299.0,690,609.0,Debit Card
+ORD00052,2025-03-13,CUST0145,West,Pune,Home & Kitchen,Desk Lamp,5,1299,0.0,6495.0,3450,3045.0,Debit Card
+ORD00993,2025-03-13,CUST0324,South,Chennai,Beauty,Face Wash,1,299,0.0,299.0,125,174.0,Net Banking
+ORD00838,2025-03-14,CUST0048,South,Hyderabad,Beauty,Face Wash,4,299,0.0,1196.0,500,696.0,Cash
+ORD00426,2025-03-14,CUST0182,West,Mumbai,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,Net Banking
+ORD00102,2025-03-14,CUST0101,North,Delhi,Beauty,Moisturizer,2,549,0.15,933.3,490,443.3,UPI
+ORD00009,2025-03-15,CUST0036,Central,Indore,Clothing,Casual Shirt,1,1199,0.0,1199.0,560,639.0,Cash
+ORD00339,2025-03-15,CUST0213,West,Pune,Beauty,Face Wash,4,299,0.0,1196.0,500,696.0,Credit Card
+ORD00664,2025-03-15,CUST0271,East,Patna,Home & Kitchen,Storage Organizer,3,899,0.05,2562.15,1290,1272.15,Debit Card
+ORD00872,2025-03-15,CUST0236,Central,Indore,Electronics,Bluetooth Speaker,2,1899,0.0,3798.0,2240,1558.0,Cash
+ORD01085,2025-03-15,CUST0045,Central,Nagpur,Beauty,Moisturizer,1,549,0.1,494.1,245,249.1,Net Banking
+ORD00224,2025-03-15,CUST0328,South,Bengaluru,Beauty,Face Wash,4,299,0.05,1136.2,500,636.2,Net Banking
+ORD00653,2025-03-15,CUST0078,North,Chandigarh,Home & Kitchen,Desk Lamp,4,1299,0.0,5196.0,2760,2436.0,Net Banking
+ORD00735,2025-03-18,CUST0033,East,Kolkata,Beauty,Moisturizer,5,549,0.1,2470.5,1225,1245.5,Credit Card
+ORD01072,2025-03-18,CUST0110,East,Kolkata,Clothing,Denim Jeans,1,1799,0.05,1709.05,900,809.05,Credit Card
+ORD00142,2025-03-20,CUST0230,East,Kolkata,Beauty,Face Wash,4,299,0.0,1196.0,500,696.0,Net Banking
+ORD00903,2025-03-21,CUST0030,West,Ahmedabad,Electronics,Bluetooth Speaker,4,1899,0.15,6456.6,4480,1976.6,UPI
+ORD00964,2025-03-21,CUST0016,North,Delhi,Home & Kitchen,Storage Organizer,5,899,0.0,4495.0,2150,2345.0,Credit Card
+ORD00363,2025-03-23,CUST0322,Central,Indore,Clothing,Denim Jeans,3,1799,0.05,5127.15,2700,2427.15,Debit Card
+ORD00078,2025-03-24,CUST0020,South,Chennai,Beauty,Sunscreen,1,399,0.0,399.0,170,229.0,Cash
+ORD00976,2025-03-24,CUST0231,South,Bengaluru,Electronics,USB-C Hub,3,1499,0.05,4272.15,2640,1632.15,Net Banking
+ORD00032,2025-03-24,CUST0174,South,Bengaluru,Electronics,USB-C Hub,5,1499,0.0,7495.0,4400,3095.0,Debit Card
+ORD00412,2025-03-25,CUST0267,South,Chennai,Beauty,Face Wash,3,299,0.0,897.0,375,522.0,Credit Card
+ORD00567,2025-03-25,CUST0262,East,Patna,Clothing,Cotton T-Shirt,5,599,0.0,2995.0,1300,1695.0,UPI
+ORD00626,2025-03-26,CUST0036,Central,Indore,Beauty,Sunscreen,2,399,0.05,758.1,340,418.1,Cash
+ORD00326,2025-03-26,CUST0041,West,Pune,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Cash
+ORD00486,2025-03-26,CUST0225,South,Hyderabad,Electronics,Bluetooth Speaker,5,1899,0.05,9020.25,5600,3420.25,Credit Card
+ORD01112,2025-03-26,CUST0106,East,Bhubaneswar,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Net Banking
+ORD00637,2025-03-27,CUST0125,Central,Bhopal,Electronics,Bluetooth Speaker,5,1899,0.0,9495.0,5600,3895.0,Debit Card
+ORD00148,2025-03-27,CUST0203,North,Chandigarh,Beauty,Sunscreen,3,399,0.1,1077.3,510,567.3,Credit Card
+ORD00566,2025-03-28,CUST0150,North,Chandigarh,Clothing,Denim Jeans,5,1799,0.1,8095.5,4500,3595.5,Net Banking
+ORD00510,2025-03-28,CUST0104,West,Mumbai,Clothing,Cotton T-Shirt,4,599,0.1,2156.4,1040,1116.4,UPI
+ORD00327,2025-03-28,CUST0312,West,Pune,Home & Kitchen,Storage Organizer,1,899,0.15,764.15,430,334.15,Cash
+ORD00719,2025-03-28,CUST0316,West,Ahmedabad,Electronics,Bluetooth Speaker,3,1899,0.1,5127.3,3360,1767.3,Credit Card
+ORD00832,2025-03-29,CUST0321,East,Bhubaneswar,Clothing,Casual Shirt,5,1199,0.0,5995.0,2800,3195.0,Net Banking
+ORD00097,2025-03-29,CUST0328,Central,Nagpur,Electronics,Bluetooth Speaker,5,1899,0.1,8545.5,5600,2945.5,Net Banking
+ORD00189,2025-03-29,CUST0081,South,Chennai,Beauty,Face Wash,2,299,0.0,598.0,250,348.0,Debit Card
+ORD00593,2025-03-29,CUST0103,East,Kolkata,Clothing,Casual Shirt,5,1199,0.0,5995.0,2800,3195.0,Net Banking
+ORD00854,2025-03-29,CUST0322,South,Chennai,Electronics,Bluetooth Speaker,2,1899,0.0,3798.0,2240,1558.0,Cash
+ORD01047,2025-03-29,CUST0218,South,Hyderabad,Clothing,Denim Jeans,2,1799,0.05,3418.1,1800,1618.1,Debit Card
+ORD00384,2025-03-29,CUST0349,North,Delhi,Beauty,Moisturizer,2,549,0.05,1043.1,490,553.1,Credit Card
+ORD01124,2025-03-30,CUST0189,East,Bhubaneswar,Electronics,Bluetooth Speaker,4,1899,0.0,7596.0,4480,3116.0,Debit Card
+ORD00857,2025-03-31,CUST0246,East,Patna,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Net Banking
+ORD01013,2025-03-31,CUST0016,North,Delhi,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,Credit Card
+ORD00315,2025-03-31,CUST0269,South,Chennai,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,Credit Card
+ORD00119,2025-03-31,CUST0335,South,Bengaluru,Home & Kitchen,Desk Lamp,5,1299,0.15,5520.75,3450,2070.75,Net Banking
+ORD01107,2025-03-31,CUST0097,West,Mumbai,Home & Kitchen,Water Bottle,4,499,0.0,1996.0,880,1116.0,Credit Card
+ORD00989,2025-03-31,CUST0015,East,Kolkata,Beauty,Moisturizer,3,549,0.05,1564.65,735,829.65,Debit Card
+ORD00831,2025-03-31,CUST0286,East,Kolkata,Electronics,Wireless Mouse,2,799,0.05,1518.1,940,578.1,Net Banking
+ORD00508,2025-04-01,CUST0014,Central,Indore,Clothing,Casual Shirt,1,1199,0.1,1079.1,560,519.1,Credit Card
+ORD00925,2025-04-01,CUST0151,East,Patna,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Debit Card
+ORD00617,2025-04-02,CUST0032,North,Chandigarh,Clothing,Cotton T-Shirt,3,599,0.05,1707.15,780,927.15,UPI
+ORD00483,2025-04-02,CUST0185,Central,Indore,Home & Kitchen,Water Bottle,4,499,0.05,1896.2,880,1016.2,Credit Card
+ORD00568,2025-04-02,CUST0209,South,Chennai,Clothing,Denim Jeans,2,1799,0.0,3598.0,1800,1798.0,Debit Card
+ORD00696,2025-04-03,CUST0327,West,Pune,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,Debit Card
+ORD00919,2025-04-03,CUST0042,West,Ahmedabad,Clothing,Cotton T-Shirt,1,599,0.05,569.05,260,309.05,Net Banking
+ORD00933,2025-04-04,CUST0293,East,Bhubaneswar,Clothing,Cotton T-Shirt,1,599,0.1,539.1,260,279.1,Credit Card
+ORD00346,2025-04-04,CUST0148,South,Bengaluru,Beauty,Face Wash,1,299,0.05,284.05,125,159.05,Debit Card
+ORD01179,2025-04-05,CUST0114,West,Mumbai,Electronics,Bluetooth Speaker,5,1899,0.0,9495.0,5600,3895.0,Net Banking
+ORD00380,2025-04-06,CUST0238,East,Bhubaneswar,Clothing,Denim Jeans,2,1799,0.1,3238.2,1800,1438.2,Debit Card
+ORD00211,2025-04-06,CUST0009,South,Bengaluru,Electronics,Bluetooth Speaker,2,1899,0.0,3798.0,2240,1558.0,Net Banking
+ORD00209,2025-04-07,CUST0061,North,Jaipur,Clothing,Denim Jeans,3,1799,0.0,5397.0,2700,2697.0,UPI
+ORD00292,2025-04-08,CUST0073,Central,Bhopal,Home & Kitchen,Water Bottle,3,499,0.0,1497.0,660,837.0,UPI
+ORD00206,2025-04-08,CUST0198,South,Bengaluru,Clothing,Cotton T-Shirt,1,599,0.0,599.0,260,339.0,Debit Card
+ORD00618,2025-04-08,CUST0123,South,Chennai,Electronics,Bluetooth Speaker,5,1899,0.05,9020.25,5600,3420.25,Credit Card
+ORD00744,2025-04-09,CUST0265,Central,Nagpur,Clothing,Casual Shirt,4,1199,0.1,4316.4,2240,2076.4,Credit Card
+ORD01011,2025-04-09,CUST0129,East,Patna,Beauty,Face Wash,3,299,0.0,897.0,375,522.0,Credit Card
+ORD01123,2025-04-09,CUST0317,West,Pune,Electronics,Bluetooth Speaker,2,1899,0.05,3608.1,2240,1368.1,Credit Card
+ORD00890,2025-04-09,CUST0224,South,Hyderabad,Beauty,Moisturizer,5,549,0.0,2745.0,1225,1520.0,Net Banking
+ORD00509,2025-04-09,CUST0095,North,Jaipur,Home & Kitchen,Storage Organizer,5,899,0.0,4495.0,2150,2345.0,Net Banking
+ORD00779,2025-04-09,CUST0003,Central,Bhopal,Clothing,Denim Jeans,5,1799,0.0,8995.0,4500,4495.0,Credit Card
+ORD00216,2025-04-10,CUST0066,West,Ahmedabad,Beauty,Face Wash,3,299,0.1,807.3,375,432.3,Debit Card
+ORD00143,2025-04-11,CUST0216,Central,Nagpur,Home & Kitchen,Water Bottle,3,499,0.0,1497.0,660,837.0,UPI
+ORD00281,2025-04-11,CUST0067,East,Patna,Beauty,Face Wash,5,299,0.05,1420.25,625,795.25,UPI
+ORD00505,2025-04-11,CUST0022,South,Hyderabad,Electronics,USB-C Hub,2,1499,0.0,2998.0,1760,1238.0,UPI
+ORD00950,2025-04-12,CUST0268,West,Ahmedabad,Electronics,USB-C Hub,4,1499,0.05,5696.2,3520,2176.2,Credit Card
+ORD00111,2025-04-12,CUST0108,Central,Nagpur,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Debit Card
+ORD00039,2025-04-12,CUST0302,East,Bhubaneswar,Electronics,Bluetooth Speaker,2,1899,0.0,3798.0,2240,1558.0,UPI
+ORD00413,2025-04-12,CUST0065,South,Hyderabad,Beauty,Sunscreen,2,399,0.0,798.0,340,458.0,Debit Card
+ORD01192,2025-04-12,CUST0232,Central,Nagpur,Home & Kitchen,Storage Organizer,1,899,0.1,809.1,430,379.1,Credit Card
+ORD01028,2025-04-13,CUST0059,West,Ahmedabad,Beauty,Sunscreen,4,399,0.1,1436.4,680,756.4,Credit Card
+ORD00152,2025-04-13,CUST0203,East,Bhubaneswar,Electronics,USB-C Hub,3,1499,0.05,4272.15,2640,1632.15,UPI
+ORD00314,2025-04-13,CUST0260,Central,Nagpur,Home & Kitchen,Desk Lamp,3,1299,0.0,3897.0,2070,1827.0,Debit Card
+ORD00399,2025-04-13,CUST0287,Central,Nagpur,Clothing,Casual Shirt,4,1199,0.0,4796.0,2240,2556.0,Credit Card
+ORD00299,2025-04-14,CUST0015,Central,Bhopal,Home & Kitchen,Water Bottle,3,499,0.0,1497.0,660,837.0,Net Banking
+ORD00573,2025-04-14,CUST0256,West,Pune,Home & Kitchen,Storage Organizer,1,899,0.0,899.0,430,469.0,Cash
+ORD00534,2025-04-14,CUST0114,North,Chandigarh,Electronics,Bluetooth Speaker,4,1899,0.15,6456.6,4480,1976.6,UPI
+ORD00814,2025-04-14,CUST0243,Central,Nagpur,Home & Kitchen,Storage Organizer,2,899,0.1,1618.2,860,758.2,Credit Card
+ORD00450,2025-04-15,CUST0252,South,Chennai,Clothing,Denim Jeans,1,1799,0.1,1619.1,900,719.1,Credit Card
+ORD00481,2025-04-16,CUST0025,East,Bhubaneswar,Beauty,Moisturizer,2,549,0.1,988.2,490,498.2,UPI
+ORD00096,2025-04-16,CUST0285,East,Patna,Home & Kitchen,Desk Lamp,3,1299,0.05,3702.15,2070,1632.15,Credit Card
+ORD00855,2025-04-16,CUST0248,South,Chennai,Home & Kitchen,Storage Organizer,4,899,0.05,3416.2,1720,1696.2,Debit Card
+ORD00841,2025-04-16,CUST0166,South,Chennai,Home & Kitchen,Water Bottle,1,499,0.0,499.0,220,279.0,Net Banking
+ORD00495,2025-04-16,CUST0034,Central,Bhopal,Electronics,Bluetooth Speaker,5,1899,0.05,9020.25,5600,3420.25,Net Banking
+ORD00660,2025-04-16,CUST0191,South,Bengaluru,Clothing,Denim Jeans,3,1799,0.0,5397.0,2700,2697.0,UPI
+ORD01114,2025-04-17,CUST0004,West,Ahmedabad,Clothing,Casual Shirt,3,1199,0.0,3597.0,1680,1917.0,Cash
+ORD00342,2025-04-17,CUST0222,East,Bhubaneswar,Home & Kitchen,Desk Lamp,3,1299,0.05,3702.15,2070,1632.15,Net Banking
+ORD00154,2025-04-18,CUST0173,South,Chennai,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,Credit Card
+ORD00796,2025-04-18,CUST0207,Central,Nagpur,Electronics,Wireless Mouse,1,799,0.05,759.05,470,289.05,UPI
+ORD00271,2025-04-18,CUST0069,North,Chandigarh,Beauty,Moisturizer,4,549,0.15,1866.6,980,886.6,Net Banking
+ORD00419,2025-04-19,CUST0174,South,Bengaluru,Beauty,Moisturizer,5,549,0.15,2333.25,1225,1108.25,Net Banking
+ORD00638,2025-04-19,CUST0218,Central,Indore,Beauty,Face Wash,1,299,0.0,299.0,125,174.0,Cash
+ORD00263,2025-04-20,CUST0239,North,Jaipur,Electronics,Bluetooth Speaker,5,1899,0.05,9020.25,5600,3420.25,UPI
+ORD00442,2025-04-20,CUST0317,South,Chennai,Electronics,Bluetooth Speaker,4,1899,0.0,7596.0,4480,3116.0,UPI
+ORD00353,2025-04-20,CUST0040,North,Delhi,Beauty,Sunscreen,3,399,0.1,1077.3,510,567.3,Cash
+ORD00971,2025-04-20,CUST0336,East,Bhubaneswar,Electronics,Wireless Mouse,4,799,0.0,3196.0,1880,1316.0,Net Banking
+ORD00928,2025-04-20,CUST0224,North,Jaipur,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,Debit Card
+ORD00190,2025-04-21,CUST0065,South,Hyderabad,Home & Kitchen,Desk Lamp,4,1299,0.0,5196.0,2760,2436.0,Credit Card
+ORD00802,2025-04-21,CUST0037,Central,Nagpur,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,Net Banking
+ORD00307,2025-04-21,CUST0016,West,Pune,Electronics,Wireless Mouse,5,799,0.1,3595.5,2350,1245.5,Debit Card
+ORD00136,2025-04-21,CUST0011,North,Chandigarh,Home & Kitchen,Water Bottle,1,499,0.1,449.1,220,229.1,Debit Card
+ORD00952,2025-04-22,CUST0101,East,Kolkata,Beauty,Moisturizer,3,549,0.0,1647.0,735,912.0,Net Banking
+ORD01105,2025-04-22,CUST0346,South,Bengaluru,Electronics,Bluetooth Speaker,4,1899,0.0,7596.0,4480,3116.0,UPI
+ORD00226,2025-04-22,CUST0295,South,Hyderabad,Electronics,Bluetooth Speaker,5,1899,0.0,9495.0,5600,3895.0,Credit Card
+ORD01155,2025-04-22,CUST0296,North,Delhi,Beauty,Face Wash,5,299,0.05,1420.25,625,795.25,Credit Card
+ORD01186,2025-04-23,CUST0082,South,Bengaluru,Beauty,Face Wash,1,299,0.05,284.05,125,159.05,UPI
+ORD00239,2025-04-23,CUST0228,South,Hyderabad,Clothing,Cotton T-Shirt,2,599,0.05,1138.1,520,618.1,Net Banking
+ORD01060,2025-04-24,CUST0337,North,Delhi,Beauty,Face Wash,5,299,0.05,1420.25,625,795.25,UPI
+ORD00333,2025-04-24,CUST0156,Central,Nagpur,Clothing,Casual Shirt,3,1199,0.0,3597.0,1680,1917.0,Debit Card
+ORD00526,2025-04-24,CUST0122,West,Pune,Beauty,Sunscreen,1,399,0.05,379.05,170,209.05,Debit Card
+ORD00400,2025-04-24,CUST0199,North,Jaipur,Beauty,Moisturizer,3,549,0.15,1399.95,735,664.95,Net Banking
+ORD00088,2025-04-25,CUST0091,South,Hyderabad,Clothing,Casual Shirt,3,1199,0.0,3597.0,1680,1917.0,UPI
+ORD01014,2025-04-25,CUST0243,South,Chennai,Clothing,Denim Jeans,5,1799,0.05,8545.25,4500,4045.25,Net Banking
+ORD00447,2025-04-25,CUST0266,East,Bhubaneswar,Electronics,USB-C Hub,3,1499,0.1,4047.3,2640,1407.3,Cash
+ORD01034,2025-04-25,CUST0292,South,Hyderabad,Home & Kitchen,Desk Lamp,4,1299,0.0,5196.0,2760,2436.0,Cash
+ORD00749,2025-04-25,CUST0189,North,Chandigarh,Electronics,Wireless Mouse,3,799,0.0,2397.0,1410,987.0,Cash
+ORD00748,2025-04-25,CUST0204,North,Chandigarh,Electronics,Wireless Mouse,1,799,0.05,759.05,470,289.05,Net Banking
+ORD01177,2025-04-26,CUST0002,East,Patna,Clothing,Cotton T-Shirt,5,599,0.1,2695.5,1300,1395.5,Net Banking
+ORD00968,2025-04-26,CUST0267,Central,Indore,Electronics,Bluetooth Speaker,2,1899,0.15,3228.3,2240,988.3,UPI
+ORD00799,2025-04-26,CUST0142,East,Patna,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Credit Card
+ORD00368,2025-04-26,CUST0236,East,Kolkata,Beauty,Face Wash,4,299,0.0,1196.0,500,696.0,Cash
+ORD00988,2025-04-26,CUST0261,South,Bengaluru,Clothing,Casual Shirt,4,1199,0.0,4796.0,2240,2556.0,UPI
+ORD00309,2025-04-26,CUST0268,East,Kolkata,Beauty,Face Wash,4,299,0.1,1076.4,500,576.4,Credit Card
+ORD00338,2025-04-26,CUST0097,Central,Nagpur,Electronics,Bluetooth Speaker,4,1899,0.0,7596.0,4480,3116.0,Credit Card
+ORD00525,2025-04-27,CUST0066,Central,Bhopal,Home & Kitchen,Storage Organizer,4,899,0.05,3416.2,1720,1696.2,UPI
+ORD00554,2025-04-27,CUST0131,West,Mumbai,Home & Kitchen,Storage Organizer,4,899,0.0,3596.0,1720,1876.0,Debit Card
+ORD00403,2025-04-27,CUST0031,Central,Indore,Beauty,Sunscreen,3,399,0.1,1077.3,510,567.3,Credit Card
+ORD00321,2025-04-28,CUST0092,Central,Bhopal,Electronics,Bluetooth Speaker,5,1899,0.0,9495.0,5600,3895.0,Credit Card
+ORD00167,2025-04-28,CUST0302,West,Mumbai,Beauty,Sunscreen,1,399,0.0,399.0,170,229.0,Credit Card
+ORD00607,2025-04-28,CUST0166,Central,Indore,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,Debit Card
+ORD00595,2025-04-28,CUST0099,North,Delhi,Clothing,Denim Jeans,2,1799,0.0,3598.0,1800,1798.0,Credit Card
+ORD00066,2025-04-29,CUST0184,North,Delhi,Electronics,Bluetooth Speaker,5,1899,0.05,9020.25,5600,3420.25,Cash
+ORD01095,2025-04-30,CUST0036,North,Jaipur,Beauty,Face Wash,1,299,0.0,299.0,125,174.0,Net Banking
+ORD00632,2025-04-30,CUST0083,South,Bengaluru,Home & Kitchen,Storage Organizer,2,899,0.1,1618.2,860,758.2,UPI
+ORD00646,2025-04-30,CUST0223,South,Bengaluru,Clothing,Cotton T-Shirt,2,599,0.15,1018.3,520,498.3,Cash
+ORD00077,2025-05-01,CUST0294,Central,Nagpur,Beauty,Face Wash,4,299,0.0,1196.0,500,696.0,UPI
+ORD01145,2025-05-01,CUST0214,South,Hyderabad,Electronics,Wireless Mouse,5,799,0.0,3995.0,2350,1645.0,Debit Card
+ORD00254,2025-05-01,CUST0234,Central,Bhopal,Beauty,Moisturizer,2,549,0.05,1043.1,490,553.1,Net Banking
+ORD00487,2025-05-02,CUST0053,North,Jaipur,Beauty,Moisturizer,2,549,0.0,1098.0,490,608.0,Net Banking
+ORD01030,2025-05-02,CUST0018,North,Chandigarh,Electronics,Wireless Mouse,5,799,0.15,3395.75,2350,1045.75,Net Banking
+ORD00294,2025-05-02,CUST0309,East,Patna,Beauty,Sunscreen,5,399,0.0,1995.0,850,1145.0,Debit Card
+ORD00738,2025-05-02,CUST0316,Central,Nagpur,Electronics,USB-C Hub,2,1499,0.15,2548.3,1760,788.3,Cash
+ORD01069,2025-05-02,CUST0313,East,Patna,Clothing,Casual Shirt,1,1199,0.1,1079.1,560,519.1,UPI
+ORD00371,2025-05-03,CUST0280,West,Mumbai,Clothing,Casual Shirt,4,1199,0.1,4316.4,2240,2076.4,Cash
+ORD00169,2025-05-03,CUST0052,North,Jaipur,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,UPI
+ORD00199,2025-05-04,CUST0021,North,Jaipur,Electronics,USB-C Hub,5,1499,0.0,7495.0,4400,3095.0,Net Banking
+ORD01176,2025-05-04,CUST0148,West,Mumbai,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,Credit Card
+ORD00627,2025-05-04,CUST0317,Central,Indore,Beauty,Face Wash,3,299,0.05,852.15,375,477.15,UPI
+ORD01142,2025-05-04,CUST0013,West,Pune,Electronics,Wireless Mouse,5,799,0.0,3995.0,2350,1645.0,Cash
+ORD01160,2025-05-05,CUST0189,West,Pune,Clothing,Casual Shirt,1,1199,0.05,1139.05,560,579.05,Net Banking
+ORD00991,2025-05-06,CUST0081,North,Delhi,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,Cash
+ORD00197,2025-05-06,CUST0288,South,Bengaluru,Beauty,Face Wash,3,299,0.0,897.0,375,522.0,Cash
+ORD00139,2025-05-07,CUST0340,West,Pune,Home & Kitchen,Water Bottle,3,499,0.0,1497.0,660,837.0,Credit Card
+ORD00268,2025-05-07,CUST0063,East,Bhubaneswar,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,UPI
+ORD00979,2025-05-09,CUST0162,West,Ahmedabad,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,Net Banking
+ORD00044,2025-05-10,CUST0064,Central,Indore,Beauty,Face Wash,3,299,0.05,852.15,375,477.15,Credit Card
+ORD00521,2025-05-11,CUST0184,Central,Nagpur,Clothing,Cotton T-Shirt,5,599,0.05,2845.25,1300,1545.25,Net Banking
+ORD00998,2025-05-12,CUST0330,East,Kolkata,Beauty,Face Wash,2,299,0.05,568.1,250,318.1,Cash
+ORD00765,2025-05-12,CUST0124,North,Jaipur,Home & Kitchen,Storage Organizer,4,899,0.0,3596.0,1720,1876.0,Debit Card
+ORD00301,2025-05-13,CUST0080,North,Delhi,Clothing,Casual Shirt,5,1199,0.15,5095.75,2800,2295.75,Cash
+ORD00194,2025-05-13,CUST0165,North,Chandigarh,Home & Kitchen,Desk Lamp,1,1299,0.0,1299.0,690,609.0,Debit Card
+ORD00746,2025-05-13,CUST0081,North,Delhi,Clothing,Cotton T-Shirt,4,599,0.1,2156.4,1040,1116.4,Net Banking
+ORD00053,2025-05-13,CUST0156,West,Pune,Clothing,Casual Shirt,4,1199,0.05,4556.2,2240,2316.2,UPI
+ORD00063,2025-05-14,CUST0215,Central,Nagpur,Clothing,Cotton T-Shirt,5,599,0.15,2545.75,1300,1245.75,Net Banking
+ORD00630,2025-05-14,CUST0203,South,Hyderabad,Clothing,Cotton T-Shirt,5,599,0.0,2995.0,1300,1695.0,Credit Card
+ORD00201,2025-05-14,CUST0148,North,Delhi,Beauty,Sunscreen,4,399,0.1,1436.4,680,756.4,Credit Card
+ORD01138,2025-05-14,CUST0131,East,Kolkata,Clothing,Denim Jeans,5,1799,0.0,8995.0,4500,4495.0,Net Banking
+ORD01052,2025-05-14,CUST0328,East,Bhubaneswar,Beauty,Sunscreen,3,399,0.05,1137.15,510,627.15,Credit Card
+ORD00393,2025-05-15,CUST0237,West,Mumbai,Clothing,Casual Shirt,4,1199,0.05,4556.2,2240,2316.2,Cash
+ORD00628,2025-05-15,CUST0278,South,Chennai,Beauty,Face Wash,4,299,0.1,1076.4,500,576.4,Debit Card
+ORD01151,2025-05-16,CUST0274,Central,Bhopal,Beauty,Moisturizer,4,549,0.0,2196.0,980,1216.0,Credit Card
+ORD01044,2025-05-16,CUST0110,South,Chennai,Beauty,Face Wash,2,299,0.0,598.0,250,348.0,Debit Card
+ORD00332,2025-05-16,CUST0249,Central,Nagpur,Clothing,Cotton T-Shirt,4,599,0.0,2396.0,1040,1356.0,Debit Card
+ORD00022,2025-05-16,CUST0302,West,Pune,Clothing,Cotton T-Shirt,4,599,0.0,2396.0,1040,1356.0,Debit Card
+ORD00909,2025-05-16,CUST0091,East,Bhubaneswar,Clothing,Cotton T-Shirt,2,599,0.1,1078.2,520,558.2,Credit Card
+ORD00068,2025-05-16,CUST0255,Central,Indore,Electronics,Bluetooth Speaker,1,1899,0.1,1709.1,1120,589.1,UPI
+ORD00576,2025-05-17,CUST0103,Central,Indore,Home & Kitchen,Desk Lamp,5,1299,0.15,5520.75,3450,2070.75,Debit Card
+ORD00374,2025-05-17,CUST0104,Central,Indore,Clothing,Denim Jeans,3,1799,0.05,5127.15,2700,2427.15,Credit Card
+ORD00498,2025-05-17,CUST0280,South,Chennai,Home & Kitchen,Desk Lamp,3,1299,0.05,3702.15,2070,1632.15,Net Banking
+ORD00770,2025-05-18,CUST0257,South,Chennai,Home & Kitchen,Desk Lamp,3,1299,0.05,3702.15,2070,1632.15,UPI
+ORD00913,2025-05-18,CUST0215,Central,Indore,Beauty,Moisturizer,1,549,0.0,549.0,245,304.0,Cash
+ORD00379,2025-05-19,CUST0327,East,Kolkata,Beauty,Face Wash,1,299,0.1,269.1,125,144.1,Net Banking
+ORD00634,2025-05-19,CUST0103,East,Kolkata,Beauty,Sunscreen,2,399,0.05,758.1,340,418.1,Cash
+ORD00758,2025-05-20,CUST0052,South,Chennai,Beauty,Moisturizer,1,549,0.05,521.55,245,276.55,Debit Card
+ORD00188,2025-05-20,CUST0073,West,Pune,Home & Kitchen,Water Bottle,4,499,0.1,1796.4,880,916.4,Debit Card
+ORD01017,2025-05-21,CUST0299,South,Hyderabad,Beauty,Moisturizer,1,549,0.05,521.55,245,276.55,Debit Card
+ORD01159,2025-05-21,CUST0133,West,Ahmedabad,Electronics,Bluetooth Speaker,2,1899,0.0,3798.0,2240,1558.0,Cash
+ORD00614,2025-05-21,CUST0038,South,Chennai,Home & Kitchen,Storage Organizer,1,899,0.0,899.0,430,469.0,Debit Card
+ORD00094,2025-05-22,CUST0189,South,Chennai,Beauty,Moisturizer,4,549,0.0,2196.0,980,1216.0,Debit Card
+ORD01066,2025-05-22,CUST0088,Central,Nagpur,Electronics,Bluetooth Speaker,5,1899,0.1,8545.5,5600,2945.5,UPI
+ORD00809,2025-05-23,CUST0123,North,Delhi,Electronics,Wireless Mouse,3,799,0.0,2397.0,1410,987.0,Credit Card
+ORD01173,2025-05-23,CUST0015,West,Mumbai,Electronics,Wireless Mouse,4,799,0.0,3196.0,1880,1316.0,Debit Card
+ORD01094,2025-05-24,CUST0207,East,Patna,Beauty,Face Wash,2,299,0.0,598.0,250,348.0,UPI
+ORD00552,2025-05-24,CUST0061,East,Patna,Home & Kitchen,Storage Organizer,3,899,0.05,2562.15,1290,1272.15,Cash
+ORD00440,2025-05-26,CUST0264,West,Ahmedabad,Clothing,Casual Shirt,2,1199,0.05,2278.1,1120,1158.1,Cash
+ORD01168,2025-05-26,CUST0086,East,Patna,Home & Kitchen,Water Bottle,2,499,0.1,898.2,440,458.2,Debit Card
+ORD00027,2025-05-27,CUST0273,North,Chandigarh,Home & Kitchen,Water Bottle,1,499,0.0,499.0,220,279.0,UPI
+ORD00957,2025-05-27,CUST0096,West,Ahmedabad,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Credit Card
+ORD00585,2025-05-28,CUST0280,Central,Nagpur,Clothing,Casual Shirt,1,1199,0.0,1199.0,560,639.0,Debit Card
+ORD00942,2025-05-28,CUST0336,Central,Indore,Clothing,Cotton T-Shirt,2,599,0.0,1198.0,520,678.0,Credit Card
+ORD00164,2025-05-29,CUST0076,East,Bhubaneswar,Beauty,Face Wash,3,299,0.1,807.3,375,432.3,Net Banking
+ORD00687,2025-05-29,CUST0285,South,Hyderabad,Home & Kitchen,Water Bottle,4,499,0.05,1896.2,880,1016.2,UPI
+ORD01131,2025-05-29,CUST0104,South,Chennai,Beauty,Face Wash,3,299,0.0,897.0,375,522.0,Net Banking
+ORD00065,2025-05-30,CUST0183,Central,Nagpur,Electronics,USB-C Hub,4,1499,0.05,5696.2,3520,2176.2,UPI
+ORD00144,2025-05-30,CUST0053,East,Kolkata,Clothing,Denim Jeans,1,1799,0.1,1619.1,900,719.1,Net Banking
+ORD00163,2025-05-30,CUST0220,Central,Indore,Beauty,Face Wash,5,299,0.15,1270.75,625,645.75,UPI
+ORD00373,2025-05-30,CUST0064,West,Mumbai,Beauty,Moisturizer,1,549,0.05,521.55,245,276.55,Credit Card
+ORD00962,2025-05-30,CUST0176,South,Bengaluru,Clothing,Casual Shirt,1,1199,0.0,1199.0,560,639.0,Net Banking
+ORD00907,2025-05-31,CUST0126,North,Jaipur,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,Net Banking
+ORD00496,2025-05-31,CUST0271,South,Bengaluru,Beauty,Moisturizer,4,549,0.05,2086.2,980,1106.2,Credit Card
+ORD00960,2025-05-31,CUST0034,South,Bengaluru,Home & Kitchen,Water Bottle,2,499,0.05,948.1,440,508.1,UPI
+ORD00572,2025-06-01,CUST0028,Central,Bhopal,Beauty,Face Wash,5,299,0.0,1495.0,625,870.0,Cash
+ORD01191,2025-06-01,CUST0282,South,Bengaluru,Beauty,Moisturizer,5,549,0.0,2745.0,1225,1520.0,UPI
+ORD01043,2025-06-01,CUST0173,North,Jaipur,Home & Kitchen,Desk Lamp,4,1299,0.05,4936.2,2760,2176.2,Debit Card
+ORD00248,2025-06-01,CUST0189,North,Jaipur,Electronics,Bluetooth Speaker,3,1899,0.1,5127.3,3360,1767.3,Cash
+ORD00275,2025-06-02,CUST0340,Central,Bhopal,Home & Kitchen,Desk Lamp,4,1299,0.0,5196.0,2760,2436.0,UPI
+ORD00624,2025-06-02,CUST0206,West,Pune,Beauty,Moisturizer,5,549,0.15,2333.25,1225,1108.25,Debit Card
+ORD00972,2025-06-02,CUST0047,North,Delhi,Clothing,Cotton T-Shirt,4,599,0.0,2396.0,1040,1356.0,UPI
+ORD00425,2025-06-02,CUST0150,Central,Bhopal,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,UPI
+ORD00732,2025-06-02,CUST0325,North,Jaipur,Electronics,USB-C Hub,3,1499,0.15,3822.45,2640,1182.45,Credit Card
+ORD00165,2025-06-02,CUST0098,East,Bhubaneswar,Clothing,Denim Jeans,3,1799,0.0,5397.0,2700,2697.0,Credit Card
+ORD01079,2025-06-02,CUST0343,West,Ahmedabad,Electronics,Bluetooth Speaker,5,1899,0.1,8545.5,5600,2945.5,Debit Card
+ORD00464,2025-06-02,CUST0098,South,Bengaluru,Electronics,USB-C Hub,5,1499,0.0,7495.0,4400,3095.0,Cash
+ORD00929,2025-06-02,CUST0346,South,Bengaluru,Electronics,USB-C Hub,2,1499,0.0,2998.0,1760,1238.0,Debit Card
+ORD01185,2025-06-03,CUST0036,East,Bhubaneswar,Beauty,Face Wash,1,299,0.0,299.0,125,174.0,Credit Card
+ORD01059,2025-06-04,CUST0186,East,Kolkata,Beauty,Sunscreen,3,399,0.1,1077.3,510,567.3,UPI
+ORD00777,2025-06-04,CUST0140,West,Ahmedabad,Home & Kitchen,Desk Lamp,4,1299,0.0,5196.0,2760,2436.0,Net Banking
+ORD00500,2025-06-05,CUST0056,North,Delhi,Electronics,Wireless Mouse,2,799,0.0,1598.0,940,658.0,UPI
+ORD00954,2025-06-06,CUST0009,East,Bhubaneswar,Beauty,Face Wash,4,299,0.1,1076.4,500,576.4,Credit Card
+ORD00547,2025-06-06,CUST0158,South,Hyderabad,Beauty,Moisturizer,1,549,0.0,549.0,245,304.0,Credit Card
+ORD00473,2025-06-07,CUST0040,Central,Nagpur,Beauty,Moisturizer,1,549,0.05,521.55,245,276.55,Credit Card
+ORD00795,2025-06-07,CUST0153,Central,Nagpur,Home & Kitchen,Water Bottle,1,499,0.0,499.0,220,279.0,Net Banking
+ORD00238,2025-06-07,CUST0309,South,Hyderabad,Beauty,Sunscreen,4,399,0.1,1436.4,680,756.4,UPI
+ORD01153,2025-06-07,CUST0331,West,Ahmedabad,Home & Kitchen,Water Bottle,3,499,0.0,1497.0,660,837.0,Net Banking
+ORD00994,2025-06-07,CUST0200,West,Ahmedabad,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Net Banking
+ORD00435,2025-06-08,CUST0077,West,Mumbai,Electronics,Wireless Mouse,5,799,0.0,3995.0,2350,1645.0,Cash
+ORD00091,2025-06-08,CUST0099,North,Chandigarh,Clothing,Cotton T-Shirt,2,599,0.0,1198.0,520,678.0,Credit Card
+ORD00407,2025-06-08,CUST0245,East,Patna,Electronics,Bluetooth Speaker,5,1899,0.05,9020.25,5600,3420.25,Debit Card
+ORD00633,2025-06-08,CUST0282,South,Chennai,Beauty,Moisturizer,1,549,0.0,549.0,245,304.0,UPI
+ORD01100,2025-06-08,CUST0134,North,Delhi,Home & Kitchen,Storage Organizer,3,899,0.05,2562.15,1290,1272.15,UPI
+ORD00354,2025-06-08,CUST0123,South,Hyderabad,Clothing,Denim Jeans,3,1799,0.0,5397.0,2700,2697.0,Debit Card
+ORD00621,2025-06-08,CUST0189,South,Chennai,Beauty,Face Wash,3,299,0.05,852.15,375,477.15,UPI
+ORD00005,2025-06-08,CUST0114,East,Patna,Beauty,Sunscreen,5,399,0.0,1995.0,850,1145.0,Net Banking
+ORD00155,2025-06-08,CUST0146,Central,Bhopal,Electronics,Bluetooth Speaker,3,1899,0.1,5127.3,3360,1767.3,Net Banking
+ORD00756,2025-06-09,CUST0080,West,Ahmedabad,Electronics,Bluetooth Speaker,1,1899,0.1,1709.1,1120,589.1,UPI
+ORD01039,2025-06-09,CUST0315,West,Pune,Beauty,Face Wash,1,299,0.0,299.0,125,174.0,Cash
+ORD00082,2025-06-09,CUST0252,Central,Indore,Home & Kitchen,Water Bottle,2,499,0.05,948.1,440,508.1,Debit Card
+ORD00140,2025-06-09,CUST0339,North,Delhi,Home & Kitchen,Storage Organizer,1,899,0.05,854.05,430,424.05,Credit Card
+ORD00121,2025-06-10,CUST0163,East,Bhubaneswar,Clothing,Denim Jeans,5,1799,0.05,8545.25,4500,4045.25,UPI
+ORD00298,2025-06-10,CUST0162,South,Chennai,Electronics,Bluetooth Speaker,2,1899,0.05,3608.1,2240,1368.1,Debit Card
+ORD00004,2025-06-10,CUST0105,West,Pune,Clothing,Denim Jeans,2,1799,0.0,3598.0,1800,1798.0,UPI
+ORD00030,2025-06-11,CUST0164,South,Chennai,Home & Kitchen,Water Bottle,3,499,0.1,1347.3,660,687.3,Net Banking
+ORD00285,2025-06-11,CUST0118,North,Jaipur,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,Debit Card
+ORD00935,2025-06-11,CUST0145,Central,Indore,Beauty,Moisturizer,5,549,0.1,2470.5,1225,1245.5,Credit Card
+ORD00800,2025-06-11,CUST0005,East,Kolkata,Beauty,Sunscreen,1,399,0.0,399.0,170,229.0,Credit Card
+ORD00186,2025-06-12,CUST0137,South,Hyderabad,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,Credit Card
+ORD00869,2025-06-12,CUST0327,North,Delhi,Beauty,Moisturizer,3,549,0.15,1399.95,735,664.95,Debit Card
+ORD00047,2025-06-12,CUST0187,East,Bhubaneswar,Clothing,Cotton T-Shirt,2,599,0.05,1138.1,520,618.1,Cash
+ORD00689,2025-06-12,CUST0263,West,Ahmedabad,Home & Kitchen,Storage Organizer,1,899,0.1,809.1,430,379.1,Debit Card
+ORD00923,2025-06-12,CUST0112,South,Bengaluru,Home & Kitchen,Desk Lamp,5,1299,0.1,5845.5,3450,2395.5,Debit Card
+ORD00267,2025-06-13,CUST0078,West,Pune,Clothing,Cotton T-Shirt,4,599,0.1,2156.4,1040,1116.4,Cash
+ORD01092,2025-06-13,CUST0039,North,Jaipur,Electronics,USB-C Hub,3,1499,0.1,4047.3,2640,1407.3,Net Banking
+ORD00219,2025-06-13,CUST0102,Central,Nagpur,Beauty,Sunscreen,2,399,0.1,718.2,340,378.2,Cash
+ORD00883,2025-06-13,CUST0265,East,Kolkata,Electronics,Bluetooth Speaker,2,1899,0.05,3608.1,2240,1368.1,UPI
+ORD01184,2025-06-13,CUST0120,West,Ahmedabad,Home & Kitchen,Storage Organizer,4,899,0.0,3596.0,1720,1876.0,Credit Card
+ORD00031,2025-06-14,CUST0303,South,Chennai,Electronics,Wireless Mouse,2,799,0.0,1598.0,940,658.0,Cash
+ORD00214,2025-06-14,CUST0301,Central,Bhopal,Beauty,Face Wash,2,299,0.0,598.0,250,348.0,Net Banking
+ORD00020,2025-06-14,CUST0009,West,Mumbai,Clothing,Denim Jeans,3,1799,0.05,5127.15,2700,2427.15,Credit Card
+ORD01057,2025-06-14,CUST0126,South,Chennai,Home & Kitchen,Water Bottle,4,499,0.15,1696.6,880,816.6,Debit Card
+ORD00792,2025-06-15,CUST0129,West,Pune,Clothing,Denim Jeans,4,1799,0.0,7196.0,3600,3596.0,Cash
+ORD00833,2025-06-15,CUST0057,East,Bhubaneswar,Home & Kitchen,Desk Lamp,5,1299,0.05,6170.25,3450,2720.25,Debit Card
+ORD00506,2025-06-15,CUST0257,East,Kolkata,Electronics,Wireless Mouse,1,799,0.05,759.05,470,289.05,Net Banking
+ORD00871,2025-06-16,CUST0220,West,Pune,Electronics,Wireless Mouse,2,799,0.15,1358.3,940,418.3,Credit Card
+ORD00205,2025-06-16,CUST0050,East,Patna,Electronics,USB-C Hub,5,1499,0.0,7495.0,4400,3095.0,Credit Card
+ORD00537,2025-06-16,CUST0057,North,Delhi,Clothing,Casual Shirt,2,1199,0.0,2398.0,1120,1278.0,UPI
+ORD00222,2025-06-16,CUST0035,North,Jaipur,Beauty,Face Wash,3,299,0.1,807.3,375,432.3,Credit Card
+ORD00114,2025-06-17,CUST0016,Central,Indore,Beauty,Face Wash,3,299,0.1,807.3,375,432.3,UPI
+ORD00798,2025-06-17,CUST0065,East,Bhubaneswar,Clothing,Cotton T-Shirt,5,599,0.05,2845.25,1300,1545.25,Net Banking
+ORD00905,2025-06-17,CUST0279,South,Bengaluru,Clothing,Casual Shirt,3,1199,0.05,3417.15,1680,1737.15,Debit Card
+ORD00335,2025-06-17,CUST0184,West,Pune,Clothing,Denim Jeans,4,1799,0.1,6476.4,3600,2876.4,Net Banking
+ORD00916,2025-06-17,CUST0341,North,Jaipur,Electronics,Wireless Mouse,1,799,0.05,759.05,470,289.05,Debit Card
+ORD00612,2025-06-18,CUST0188,North,Chandigarh,Electronics,Bluetooth Speaker,3,1899,0.1,5127.3,3360,1767.3,UPI
+ORD00176,2025-06-18,CUST0180,East,Kolkata,Home & Kitchen,Desk Lamp,5,1299,0.05,6170.25,3450,2720.25,Debit Card
+ORD00073,2025-06-18,CUST0064,East,Bhubaneswar,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,Net Banking
+ORD00939,2025-06-18,CUST0330,East,Bhubaneswar,Home & Kitchen,Storage Organizer,5,899,0.05,4270.25,2150,2120.25,Cash
+ORD00485,2025-06-18,CUST0062,West,Pune,Home & Kitchen,Storage Organizer,3,899,0.05,2562.15,1290,1272.15,Credit Card
+ORD00647,2025-06-18,CUST0100,West,Ahmedabad,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,Credit Card
+ORD00231,2025-06-19,CUST0021,South,Bengaluru,Clothing,Cotton T-Shirt,5,599,0.1,2695.5,1300,1395.5,Credit Card
+ORD00277,2025-06-20,CUST0207,South,Bengaluru,Beauty,Moisturizer,5,549,0.0,2745.0,1225,1520.0,Cash
+ORD00054,2025-06-20,CUST0002,Central,Nagpur,Beauty,Sunscreen,4,399,0.0,1596.0,680,916.0,Credit Card
+ORD01075,2025-06-20,CUST0063,North,Chandigarh,Home & Kitchen,Storage Organizer,3,899,0.15,2292.45,1290,1002.45,Net Banking
+ORD00474,2025-06-20,CUST0348,South,Hyderabad,Clothing,Casual Shirt,2,1199,0.05,2278.1,1120,1158.1,UPI
+ORD00710,2025-06-20,CUST0028,North,Delhi,Electronics,Wireless Mouse,4,799,0.0,3196.0,1880,1316.0,Debit Card
+ORD01102,2025-06-21,CUST0328,Central,Bhopal,Beauty,Face Wash,1,299,0.0,299.0,125,174.0,Cash
+ORD00124,2025-06-21,CUST0296,South,Chennai,Clothing,Cotton T-Shirt,3,599,0.05,1707.15,780,927.15,UPI
+ORD00367,2025-06-21,CUST0323,West,Ahmedabad,Beauty,Sunscreen,3,399,0.0,1197.0,510,687.0,Cash
+ORD00070,2025-06-21,CUST0262,West,Mumbai,Electronics,USB-C Hub,5,1499,0.1,6745.5,4400,2345.5,Credit Card
+ORD00109,2025-06-22,CUST0328,West,Ahmedabad,Home & Kitchen,Water Bottle,5,499,0.1,2245.5,1100,1145.5,Debit Card
+ORD00290,2025-06-22,CUST0278,East,Patna,Electronics,Bluetooth Speaker,3,1899,0.0,5697.0,3360,2337.0,Credit Card
+ORD00974,2025-06-23,CUST0236,West,Pune,Beauty,Face Wash,1,299,0.05,284.05,125,159.05,UPI
+ORD00709,2025-06-23,CUST0180,East,Patna,Home & Kitchen,Water Bottle,1,499,0.0,499.0,220,279.0,Debit Card
+ORD00944,2025-06-23,CUST0268,North,Delhi,Home & Kitchen,Storage Organizer,5,899,0.0,4495.0,2150,2345.0,Credit Card
+ORD00519,2025-06-23,CUST0076,North,Delhi,Electronics,Bluetooth Speaker,3,1899,0.05,5412.15,3360,2052.15,Cash
+ORD00076,2025-06-23,CUST0232,East,Patna,Clothing,Cotton T-Shirt,3,599,0.05,1707.15,780,927.15,UPI
+ORD00622,2025-06-24,CUST0309,South,Bengaluru,Electronics,Bluetooth Speaker,4,1899,0.0,7596.0,4480,3116.0,Cash
+ORD00768,2025-06-24,CUST0122,Central,Indore,Clothing,Denim Jeans,2,1799,0.0,3598.0,1800,1798.0,Credit Card
+ORD00973,2025-06-24,CUST0104,North,Delhi,Clothing,Casual Shirt,1,1199,0.1,1079.1,560,519.1,UPI
+ORD00785,2025-06-24,CUST0144,East,Patna,Electronics,Bluetooth Speaker,4,1899,0.1,6836.4,4480,2356.4,Cash
+ORD00644,2025-06-25,CUST0281,East,Kolkata,Home & Kitchen,Desk Lamp,2,1299,0.05,2468.1,1380,1088.1,Net Banking
+ORD01101,2025-06-25,CUST0254,North,Jaipur,Clothing,Denim Jeans,5,1799,0.1,8095.5,4500,3595.5,Debit Card
+ORD00276,2025-06-26,CUST0035,East,Bhubaneswar,Electronics,USB-C Hub,5,1499,0.1,6745.5,4400,2345.5,Credit Card
+ORD01146,2025-06-26,CUST0024,Central,Nagpur,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,Credit Card
+ORD01031,2025-06-27,CUST0069,South,Bengaluru,Electronics,USB-C Hub,4,1499,0.1,5396.4,3520,1876.4,UPI
+ORD00282,2025-06-27,CUST0066,East,Kolkata,Beauty,Sunscreen,1,399,0.0,399.0,170,229.0,Cash
+ORD00729,2025-06-28,CUST0185,Central,Bhopal,Beauty,Sunscreen,3,399,0.05,1137.15,510,627.15,Cash
+ORD01116,2025-06-28,CUST0348,West,Pune,Beauty,Moisturizer,2,549,0.0,1098.0,490,608.0,Debit Card
+ORD00651,2025-06-28,CUST0156,South,Hyderabad,Home & Kitchen,Storage Organizer,2,899,0.0,1798.0,860,938.0,Cash
+ORD00444,2025-06-28,CUST0038,South,Hyderabad,Clothing,Casual Shirt,3,1199,0.0,3597.0,1680,1917.0,Net Banking
+ORD00284,2025-06-29,CUST0108,South,Chennai,Clothing,Cotton T-Shirt,1,599,0.05,569.05,260,309.05,Credit Card
+ORD00235,2025-06-29,CUST0108,West,Mumbai,Clothing,Cotton T-Shirt,4,599,0.1,2156.4,1040,1116.4,Cash
+ORD00718,2025-06-29,CUST0332,North,Chandigarh,Beauty,Moisturizer,1,549,0.0,549.0,245,304.0,Debit Card
+ORD00563,2025-06-29,CUST0166,North,Jaipur,Clothing,Denim Jeans,3,1799,0.0,5397.0,2700,2697.0,Credit Card
+ORD00203,2025-06-30,CUST0259,West,Pune,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Net Banking
+ORD01018,2025-06-30,CUST0037,North,Jaipur,Electronics,USB-C Hub,1,1499,0.1,1349.1,880,469.1,Net Banking
+ORD00185,2025-06-30,CUST0060,East,Kolkata,Home & Kitchen,Water Bottle,5,499,0.1,2245.5,1100,1145.5,Cash
+ORD01120,2025-06-30,CUST0338,West,Pune,Home & Kitchen,Storage Organizer,1,899,0.0,899.0,430,469.0,Net Banking
+ORD00252,2025-06-30,CUST0239,South,Hyderabad,Beauty,Sunscreen,2,399,0.0,798.0,340,458.0,Credit Card
+ORD00055,2025-07-01,CUST0282,North,Delhi,Clothing,Casual Shirt,5,1199,0.0,5995.0,2800,3195.0,Cash
+ORD00183,2025-07-01,CUST0079,North,Jaipur,Electronics,Bluetooth Speaker,4,1899,0.1,6836.4,4480,2356.4,Net Banking
+ORD01162,2025-07-02,CUST0046,Central,Bhopal,Clothing,Casual Shirt,2,1199,0.05,2278.1,1120,1158.1,Credit Card
+ORD00453,2025-07-02,CUST0146,East,Kolkata,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,Debit Card
+ORD00405,2025-07-02,CUST0316,Central,Indore,Beauty,Sunscreen,2,399,0.15,678.3,340,338.3,Debit Card
+ORD00406,2025-07-02,CUST0235,East,Bhubaneswar,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,Credit Card
+ORD00021,2025-07-02,CUST0001,South,Bengaluru,Electronics,Wireless Mouse,1,799,0.1,719.1,470,249.1,Credit Card
+ORD00180,2025-07-02,CUST0153,Central,Nagpur,Clothing,Cotton T-Shirt,4,599,0.0,2396.0,1040,1356.0,Cash
+ORD01091,2025-07-03,CUST0093,East,Kolkata,Home & Kitchen,Water Bottle,5,499,0.0,2495.0,1100,1395.0,UPI
+ORD01053,2025-07-03,CUST0347,North,Delhi,Clothing,Casual Shirt,4,1199,0.1,4316.4,2240,2076.4,Cash
+ORD00667,2025-07-03,CUST0213,East,Kolkata,Clothing,Denim Jeans,3,1799,0.0,5397.0,2700,2697.0,Debit Card
+ORD01008,2025-07-03,CUST0064,South,Bengaluru,Clothing,Casual Shirt,4,1199,0.0,4796.0,2240,2556.0,Debit Card
+ORD00629,2025-07-04,CUST0006,North,Delhi,Electronics,Bluetooth Speaker,5,1899,0.05,9020.25,5600,3420.25,UPI
+ORD00556,2025-07-04,CUST0104,North,Jaipur,Home & Kitchen,Storage Organizer,5,899,0.0,4495.0,2150,2345.0,Net Banking
+ORD00420,2025-07-04,CUST0328,Central,Indore,Electronics,USB-C Hub,1,1499,0.0,1499.0,880,619.0,Net Banking
+ORD00159,2025-07-04,CUST0002,Central,Nagpur,Beauty,Sunscreen,1,399,0.0,399.0,170,229.0,Net Banking
+ORD01152,2025-07-04,CUST0293,South,Chennai,Home & Kitchen,Storage Organizer,5,899,0.05,4270.25,2150,2120.25,Debit Card
+ORD00876,2025-07-04,CUST0106,East,Bhubaneswar,Home & Kitchen,Water Bottle,2,499,0.1,898.2,440,458.2,Net Banking
+ORD00115,2025-07-04,CUST0071,West,Pune,Home & Kitchen,Storage Organizer,2,899,0.1,1618.2,860,758.2,Debit Card
+ORD00445,2025-07-05,CUST0341,West,Pune,Home & Kitchen,Desk Lamp,1,1299,0.15,1104.15,690,414.15,Net Banking
+ORD01051,2025-07-05,CUST0150,Central,Bhopal,Beauty,Sunscreen,1,399,0.0,399.0,170,229.0,UPI
+ORD00897,2025-07-05,CUST0301,East,Bhubaneswar,Electronics,Bluetooth Speaker,3,1899,0.0,5697.0,3360,2337.0,Net Banking
+ORD00940,2025-07-05,CUST0292,Central,Indore,Clothing,Cotton T-Shirt,2,599,0.0,1198.0,520,678.0,UPI
+ORD00017,2025-07-07,CUST0338,South,Chennai,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Cash
+ORD00344,2025-07-07,CUST0216,North,Delhi,Home & Kitchen,Water Bottle,4,499,0.05,1896.2,880,1016.2,Net Banking
+ORD01000,2025-07-07,CUST0176,Central,Bhopal,Clothing,Denim Jeans,3,1799,0.05,5127.15,2700,2427.15,Debit Card
+ORD00608,2025-07-07,CUST0177,Central,Bhopal,Electronics,Bluetooth Speaker,2,1899,0.1,3418.2,2240,1178.2,Debit Card
+ORD00803,2025-07-08,CUST0284,South,Bengaluru,Beauty,Moisturizer,4,549,0.0,2196.0,980,1216.0,Credit Card
+ORD00717,2025-07-08,CUST0172,North,Chandigarh,Clothing,Denim Jeans,4,1799,0.05,6836.2,3600,3236.2,Net Banking
+ORD00549,2025-07-08,CUST0245,Central,Indore,Home & Kitchen,Desk Lamp,1,1299,0.0,1299.0,690,609.0,Debit Card
+ORD01165,2025-07-08,CUST0091,East,Patna,Home & Kitchen,Storage Organizer,4,899,0.1,3236.4,1720,1516.4,UPI
+ORD01010,2025-07-09,CUST0099,East,Patna,Electronics,USB-C Hub,1,1499,0.0,1499.0,880,619.0,UPI
+ORD01015,2025-07-09,CUST0081,Central,Nagpur,Clothing,Casual Shirt,2,1199,0.05,2278.1,1120,1158.1,Debit Card
+ORD00366,2025-07-09,CUST0092,North,Delhi,Clothing,Cotton T-Shirt,4,599,0.05,2276.2,1040,1236.2,Cash
+ORD00701,2025-07-09,CUST0110,West,Pune,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,Net Banking
+ORD00296,2025-07-10,CUST0070,Central,Bhopal,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,UPI
+ORD00893,2025-07-10,CUST0074,North,Chandigarh,Electronics,USB-C Hub,2,1499,0.0,2998.0,1760,1238.0,Net Banking
+ORD00712,2025-07-10,CUST0081,Central,Bhopal,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Credit Card
+ORD00449,2025-07-10,CUST0266,East,Bhubaneswar,Beauty,Moisturizer,3,549,0.0,1647.0,735,912.0,Credit Card
+ORD00679,2025-07-10,CUST0003,East,Patna,Beauty,Moisturizer,1,549,0.0,549.0,245,304.0,Credit Card
+ORD00578,2025-07-11,CUST0217,West,Mumbai,Clothing,Cotton T-Shirt,4,599,0.0,2396.0,1040,1356.0,Debit Card
+ORD01195,2025-07-11,CUST0126,East,Patna,Clothing,Cotton T-Shirt,4,599,0.05,2276.2,1040,1236.2,Debit Card
+ORD01074,2025-07-11,CUST0213,West,Mumbai,Electronics,Wireless Mouse,2,799,0.05,1518.1,940,578.1,Cash
+ORD00997,2025-07-12,CUST0259,South,Chennai,Clothing,Casual Shirt,2,1199,0.05,2278.1,1120,1158.1,Cash
+ORD00011,2025-07-12,CUST0146,Central,Indore,Home & Kitchen,Desk Lamp,4,1299,0.0,5196.0,2760,2436.0,Net Banking
+ORD00507,2025-07-13,CUST0096,Central,Indore,Home & Kitchen,Water Bottle,1,499,0.0,499.0,220,279.0,Cash
+ORD00488,2025-07-13,CUST0202,West,Ahmedabad,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,Cash
+ORD00995,2025-07-13,CUST0298,North,Chandigarh,Electronics,USB-C Hub,3,1499,0.1,4047.3,2640,1407.3,Credit Card
+ORD01147,2025-07-13,CUST0296,Central,Bhopal,Home & Kitchen,Water Bottle,3,499,0.0,1497.0,660,837.0,Cash
+ORD01164,2025-07-13,CUST0216,East,Kolkata,Electronics,Wireless Mouse,2,799,0.1,1438.2,940,498.2,Cash
+ORD00656,2025-07-14,CUST0286,North,Delhi,Home & Kitchen,Water Bottle,5,499,0.0,2495.0,1100,1395.0,Debit Card
+ORD00747,2025-07-14,CUST0010,Central,Bhopal,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Net Banking
+ORD00351,2025-07-14,CUST0269,Central,Nagpur,Electronics,Bluetooth Speaker,2,1899,0.05,3608.1,2240,1368.1,Debit Card
+ORD00648,2025-07-15,CUST0153,West,Ahmedabad,Home & Kitchen,Desk Lamp,1,1299,0.1,1169.1,690,479.1,Credit Card
+ORD00561,2025-07-15,CUST0018,Central,Indore,Electronics,Bluetooth Speaker,3,1899,0.1,5127.3,3360,1767.3,Net Banking
+ORD00606,2025-07-15,CUST0051,Central,Bhopal,Clothing,Denim Jeans,4,1799,0.05,6836.2,3600,3236.2,UPI
+ORD00931,2025-07-16,CUST0156,North,Jaipur,Home & Kitchen,Storage Organizer,2,899,0.1,1618.2,860,758.2,Cash
+ORD01140,2025-07-16,CUST0153,Central,Nagpur,Beauty,Face Wash,4,299,0.0,1196.0,500,696.0,Net Banking
+ORD00927,2025-07-17,CUST0267,Central,Bhopal,Beauty,Face Wash,3,299,0.0,897.0,375,522.0,Cash
+ORD00289,2025-07-17,CUST0345,West,Pune,Home & Kitchen,Desk Lamp,4,1299,0.1,4676.4,2760,1916.4,Net Banking
+ORD00877,2025-07-17,CUST0086,South,Chennai,Beauty,Sunscreen,2,399,0.0,798.0,340,458.0,Credit Card
+ORD00539,2025-07-17,CUST0084,West,Ahmedabad,Home & Kitchen,Storage Organizer,3,899,0.05,2562.15,1290,1272.15,Debit Card
+ORD00305,2025-07-18,CUST0320,North,Jaipur,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,Credit Card
+ORD00789,2025-07-18,CUST0051,North,Jaipur,Electronics,Wireless Mouse,5,799,0.05,3795.25,2350,1445.25,Credit Card
+ORD00917,2025-07-18,CUST0120,South,Chennai,Clothing,Casual Shirt,1,1199,0.05,1139.05,560,579.05,UPI
+ORD00295,2025-07-18,CUST0302,East,Kolkata,Beauty,Face Wash,2,299,0.1,538.2,250,288.2,Credit Card
+ORD00807,2025-07-18,CUST0247,East,Bhubaneswar,Home & Kitchen,Water Bottle,2,499,0.0,998.0,440,558.0,Cash
+ORD00229,2025-07-19,CUST0155,South,Chennai,Electronics,USB-C Hub,1,1499,0.15,1274.15,880,394.15,Cash
+ORD00983,2025-07-19,CUST0125,East,Kolkata,Electronics,Bluetooth Speaker,3,1899,0.0,5697.0,3360,2337.0,UPI
+ORD00029,2025-07-19,CUST0039,North,Jaipur,Electronics,Wireless Mouse,5,799,0.0,3995.0,2350,1645.0,Debit Card
+ORD00057,2025-07-19,CUST0024,West,Pune,Home & Kitchen,Water Bottle,5,499,0.0,2495.0,1100,1395.0,UPI
+ORD00331,2025-07-19,CUST0093,West,Mumbai,Clothing,Denim Jeans,2,1799,0.05,3418.1,1800,1618.1,Net Banking
+ORD00879,2025-07-20,CUST0232,Central,Bhopal,Electronics,Bluetooth Speaker,4,1899,0.0,7596.0,4480,3116.0,Debit Card
+ORD00992,2025-07-20,CUST0103,South,Chennai,Beauty,Sunscreen,2,399,0.05,758.1,340,418.1,UPI
+ORD00655,2025-07-21,CUST0204,South,Bengaluru,Home & Kitchen,Desk Lamp,1,1299,0.0,1299.0,690,609.0,Net Banking
+ORD00762,2025-07-21,CUST0265,Central,Indore,Clothing,Casual Shirt,2,1199,0.1,2158.2,1120,1038.2,UPI
+ORD00034,2025-07-22,CUST0248,North,Chandigarh,Electronics,USB-C Hub,1,1499,0.0,1499.0,880,619.0,Cash
+ORD00330,2025-07-22,CUST0086,South,Bengaluru,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Credit Card
+ORD00456,2025-07-22,CUST0188,South,Bengaluru,Electronics,Wireless Mouse,3,799,0.05,2277.15,1410,867.15,UPI
+ORD00755,2025-07-22,CUST0330,North,Jaipur,Home & Kitchen,Desk Lamp,3,1299,0.0,3897.0,2070,1827.0,Debit Card
+ORD00132,2025-07-22,CUST0051,West,Mumbai,Beauty,Sunscreen,5,399,0.05,1895.25,850,1045.25,Net Banking
+ORD01084,2025-07-22,CUST0247,North,Jaipur,Electronics,USB-C Hub,5,1499,0.1,6745.5,4400,2345.5,Net Banking
+ORD00113,2025-07-22,CUST0010,West,Ahmedabad,Electronics,Bluetooth Speaker,5,1899,0.0,9495.0,5600,3895.0,UPI
+ORD00308,2025-07-22,CUST0257,South,Bengaluru,Clothing,Denim Jeans,4,1799,0.1,6476.4,3600,2876.4,Net Banking
+ORD01003,2025-07-23,CUST0154,West,Ahmedabad,Electronics,Bluetooth Speaker,2,1899,0.05,3608.1,2240,1368.1,Cash
+ORD00158,2025-07-23,CUST0137,West,Pune,Electronics,Wireless Mouse,2,799,0.1,1438.2,940,498.2,UPI
+ORD01129,2025-07-23,CUST0050,North,Jaipur,Clothing,Cotton T-Shirt,1,599,0.1,539.1,260,279.1,UPI
+ORD00134,2025-07-24,CUST0186,North,Chandigarh,Beauty,Sunscreen,5,399,0.05,1895.25,850,1045.25,Debit Card
+ORD00079,2025-07-26,CUST0074,West,Pune,Clothing,Cotton T-Shirt,4,599,0.0,2396.0,1040,1356.0,Net Banking
+ORD00706,2025-07-26,CUST0181,East,Patna,Electronics,Wireless Mouse,3,799,0.1,2157.3,1410,747.3,Net Banking
+ORD00980,2025-07-26,CUST0194,Central,Bhopal,Electronics,USB-C Hub,2,1499,0.0,2998.0,1760,1238.0,Credit Card
+ORD01189,2025-07-26,CUST0234,South,Bengaluru,Beauty,Face Wash,5,299,0.05,1420.25,625,795.25,Credit Card
+ORD00126,2025-07-26,CUST0167,East,Patna,Beauty,Face Wash,3,299,0.15,762.45,375,387.45,UPI
+ORD00131,2025-07-26,CUST0143,North,Delhi,Electronics,USB-C Hub,1,1499,0.05,1424.05,880,544.05,UPI
+ORD01029,2025-07-26,CUST0127,West,Ahmedabad,Clothing,Cotton T-Shirt,4,599,0.1,2156.4,1040,1116.4,Cash
+ORD00437,2025-07-27,CUST0110,North,Delhi,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Credit Card
+ORD00116,2025-07-27,CUST0219,East,Kolkata,Clothing,Denim Jeans,2,1799,0.0,3598.0,1800,1798.0,Credit Card
+ORD00978,2025-07-28,CUST0221,Central,Nagpur,Beauty,Sunscreen,1,399,0.0,399.0,170,229.0,Cash
+ORD00570,2025-07-28,CUST0329,West,Ahmedabad,Home & Kitchen,Water Bottle,4,499,0.0,1996.0,880,1116.0,Net Banking
+ORD00708,2025-07-28,CUST0061,East,Kolkata,Electronics,Wireless Mouse,5,799,0.05,3795.25,2350,1445.25,Cash
+ORD00922,2025-07-28,CUST0261,North,Jaipur,Electronics,USB-C Hub,5,1499,0.0,7495.0,4400,3095.0,UPI
+ORD00288,2025-07-28,CUST0087,Central,Bhopal,Beauty,Sunscreen,1,399,0.05,379.05,170,209.05,Cash
+ORD00129,2025-07-29,CUST0184,South,Chennai,Beauty,Face Wash,2,299,0.0,598.0,250,348.0,Credit Card
+ORD00535,2025-07-30,CUST0200,East,Kolkata,Beauty,Face Wash,4,299,0.05,1136.2,500,636.2,Cash
+ORD00930,2025-07-30,CUST0245,East,Bhubaneswar,Clothing,Cotton T-Shirt,2,599,0.0,1198.0,520,678.0,Net Banking
+ORD00597,2025-07-31,CUST0140,West,Pune,Clothing,Casual Shirt,3,1199,0.05,3417.15,1680,1737.15,Net Banking
+ORD00228,2025-07-31,CUST0144,Central,Bhopal,Clothing,Denim Jeans,2,1799,0.05,3418.1,1800,1618.1,Cash
+ORD00677,2025-07-31,CUST0004,East,Kolkata,Electronics,Bluetooth Speaker,3,1899,0.0,5697.0,3360,2337.0,Credit Card
+ORD00266,2025-08-01,CUST0114,South,Chennai,Electronics,Wireless Mouse,4,799,0.0,3196.0,1880,1316.0,Debit Card
+ORD01161,2025-08-01,CUST0054,South,Bengaluru,Electronics,Wireless Mouse,1,799,0.05,759.05,470,289.05,UPI
+ORD00424,2025-08-01,CUST0148,East,Bhubaneswar,Electronics,Wireless Mouse,5,799,0.0,3995.0,2350,1645.0,Debit Card
+ORD00242,2025-08-02,CUST0153,North,Chandigarh,Clothing,Casual Shirt,3,1199,0.0,3597.0,1680,1917.0,UPI
+ORD00260,2025-08-03,CUST0004,West,Ahmedabad,Electronics,Wireless Mouse,2,799,0.0,1598.0,940,658.0,UPI
+ORD00985,2025-08-03,CUST0019,South,Bengaluru,Home & Kitchen,Water Bottle,3,499,0.05,1422.15,660,762.15,Credit Card
+ORD00966,2025-08-03,CUST0052,Central,Bhopal,Clothing,Denim Jeans,5,1799,0.1,8095.5,4500,3595.5,Cash
+ORD01156,2025-08-03,CUST0288,South,Hyderabad,Electronics,Bluetooth Speaker,5,1899,0.0,9495.0,5600,3895.0,Debit Card
+ORD01118,2025-08-03,CUST0274,West,Mumbai,Clothing,Cotton T-Shirt,2,599,0.05,1138.1,520,618.1,Cash
+ORD00786,2025-08-03,CUST0348,West,Ahmedabad,Clothing,Cotton T-Shirt,4,599,0.0,2396.0,1040,1356.0,Debit Card
+ORD00548,2025-08-04,CUST0316,East,Bhubaneswar,Home & Kitchen,Storage Organizer,5,899,0.0,4495.0,2150,2345.0,Debit Card
+ORD00981,2025-08-04,CUST0120,East,Bhubaneswar,Electronics,Bluetooth Speaker,1,1899,0.05,1804.05,1120,684.05,Net Banking
+ORD00270,2025-08-04,CUST0107,South,Chennai,Beauty,Moisturizer,5,549,0.0,2745.0,1225,1520.0,Net Banking
+ORD00698,2025-08-04,CUST0236,East,Kolkata,Beauty,Face Wash,4,299,0.0,1196.0,500,696.0,UPI
+ORD00688,2025-08-05,CUST0015,South,Hyderabad,Home & Kitchen,Storage Organizer,5,899,0.0,4495.0,2150,2345.0,Net Banking
+ORD00520,2025-08-05,CUST0200,East,Bhubaneswar,Home & Kitchen,Water Bottle,1,499,0.0,499.0,220,279.0,Net Banking
+ORD00915,2025-08-05,CUST0261,West,Ahmedabad,Clothing,Denim Jeans,5,1799,0.0,8995.0,4500,4495.0,UPI
+ORD00468,2025-08-06,CUST0230,South,Hyderabad,Home & Kitchen,Desk Lamp,1,1299,0.0,1299.0,690,609.0,UPI
+ORD00455,2025-08-06,CUST0323,East,Kolkata,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,UPI
+ORD00665,2025-08-07,CUST0023,Central,Bhopal,Electronics,USB-C Hub,2,1499,0.1,2698.2,1760,938.2,Credit Card
+ORD00394,2025-08-07,CUST0029,North,Chandigarh,Home & Kitchen,Storage Organizer,1,899,0.05,854.05,430,424.05,Net Banking
+ORD01188,2025-08-07,CUST0325,North,Chandigarh,Electronics,Bluetooth Speaker,3,1899,0.05,5412.15,3360,2052.15,Cash
+ORD00720,2025-08-07,CUST0314,North,Delhi,Home & Kitchen,Desk Lamp,5,1299,0.0,6495.0,3450,3045.0,UPI
+ORD00531,2025-08-07,CUST0237,East,Bhubaneswar,Beauty,Moisturizer,2,549,0.05,1043.1,490,553.1,UPI
+ORD00967,2025-08-08,CUST0129,East,Patna,Home & Kitchen,Water Bottle,4,499,0.0,1996.0,880,1116.0,Cash
+ORD01048,2025-08-08,CUST0027,Central,Nagpur,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,UPI
+ORD00494,2025-08-09,CUST0024,East,Bhubaneswar,Home & Kitchen,Desk Lamp,1,1299,0.1,1169.1,690,479.1,Debit Card
+ORD00137,2025-08-09,CUST0133,East,Bhubaneswar,Home & Kitchen,Desk Lamp,3,1299,0.05,3702.15,2070,1632.15,Net Banking
+ORD00625,2025-08-09,CUST0253,East,Patna,Clothing,Casual Shirt,5,1199,0.0,5995.0,2800,3195.0,Net Banking
+ORD00193,2025-08-10,CUST0177,West,Pune,Beauty,Moisturizer,5,549,0.1,2470.5,1225,1245.5,Cash
+ORD00850,2025-08-10,CUST0262,North,Delhi,Home & Kitchen,Storage Organizer,4,899,0.0,3596.0,1720,1876.0,Cash
+ORD01181,2025-08-10,CUST0322,South,Bengaluru,Beauty,Face Wash,3,299,0.1,807.3,375,432.3,Cash
+ORD00490,2025-08-10,CUST0277,East,Kolkata,Beauty,Face Wash,4,299,0.1,1076.4,500,576.4,Credit Card
+ORD00269,2025-08-12,CUST0049,East,Kolkata,Electronics,Bluetooth Speaker,3,1899,0.0,5697.0,3360,2337.0,Net Banking
+ORD00956,2025-08-12,CUST0206,South,Hyderabad,Clothing,Cotton T-Shirt,4,599,0.0,2396.0,1040,1356.0,Net Banking
+ORD00767,2025-08-12,CUST0262,Central,Nagpur,Home & Kitchen,Desk Lamp,5,1299,0.0,6495.0,3450,3045.0,Debit Card
+ORD00896,2025-08-12,CUST0320,East,Bhubaneswar,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Cash
+ORD00953,2025-08-13,CUST0169,North,Chandigarh,Clothing,Cotton T-Shirt,1,599,0.1,539.1,260,279.1,Net Banking
+ORD01135,2025-08-13,CUST0025,South,Chennai,Home & Kitchen,Water Bottle,3,499,0.0,1497.0,660,837.0,UPI
+ORD00672,2025-08-13,CUST0021,Central,Bhopal,Clothing,Cotton T-Shirt,5,599,0.0,2995.0,1300,1695.0,Credit Card
+ORD00601,2025-08-13,CUST0155,North,Delhi,Home & Kitchen,Water Bottle,3,499,0.0,1497.0,660,837.0,Net Banking
+ORD00702,2025-08-13,CUST0172,West,Mumbai,Electronics,USB-C Hub,4,1499,0.1,5396.4,3520,1876.4,Debit Card
+ORD00900,2025-08-13,CUST0341,West,Ahmedabad,Clothing,Cotton T-Shirt,4,599,0.1,2156.4,1040,1116.4,Net Banking
+ORD00323,2025-08-13,CUST0270,East,Kolkata,Beauty,Sunscreen,5,399,0.05,1895.25,850,1045.25,Net Banking
+ORD00987,2025-08-14,CUST0145,Central,Nagpur,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,Net Banking
+ORD01200,2025-08-15,CUST0029,South,Hyderabad,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,Credit Card
+ORD00675,2025-08-15,CUST0203,North,Chandigarh,Beauty,Moisturizer,3,549,0.0,1647.0,735,912.0,UPI
+ORD00343,2025-08-15,CUST0267,North,Jaipur,Beauty,Sunscreen,2,399,0.0,798.0,340,458.0,Credit Card
+ORD00825,2025-08-16,CUST0271,East,Patna,Home & Kitchen,Water Bottle,2,499,0.05,948.1,440,508.1,UPI
+ORD00996,2025-08-17,CUST0253,Central,Indore,Electronics,Wireless Mouse,4,799,0.1,2876.4,1880,996.4,Cash
+ORD00240,2025-08-17,CUST0100,East,Kolkata,Home & Kitchen,Desk Lamp,2,1299,0.05,2468.1,1380,1088.1,Cash
+ORD00245,2025-08-18,CUST0350,East,Patna,Beauty,Sunscreen,3,399,0.05,1137.15,510,627.15,Cash
+ORD01171,2025-08-18,CUST0093,South,Hyderabad,Home & Kitchen,Water Bottle,3,499,0.0,1497.0,660,837.0,Cash
+ORD00599,2025-08-18,CUST0092,South,Bengaluru,Beauty,Face Wash,5,299,0.0,1495.0,625,870.0,UPI
+ORD00085,2025-08-18,CUST0263,West,Mumbai,Beauty,Sunscreen,5,399,0.05,1895.25,850,1045.25,Cash
+ORD00880,2025-08-18,CUST0198,North,Chandigarh,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,Cash
+ORD00040,2025-08-19,CUST0296,North,Chandigarh,Home & Kitchen,Storage Organizer,1,899,0.05,854.05,430,424.05,Cash
+ORD01111,2025-08-19,CUST0296,West,Mumbai,Beauty,Face Wash,2,299,0.0,598.0,250,348.0,Debit Card
+ORD00192,2025-08-19,CUST0009,Central,Indore,Clothing,Cotton T-Shirt,3,599,0.05,1707.15,780,927.15,Net Banking
+ORD01172,2025-08-19,CUST0033,East,Kolkata,Clothing,Denim Jeans,4,1799,0.05,6836.2,3600,3236.2,Cash
+ORD00743,2025-08-20,CUST0099,West,Mumbai,Clothing,Denim Jeans,2,1799,0.1,3238.2,1800,1438.2,UPI
+ORD00341,2025-08-20,CUST0306,West,Mumbai,Beauty,Face Wash,3,299,0.05,852.15,375,477.15,Debit Card
+ORD00658,2025-08-20,CUST0148,Central,Bhopal,Electronics,Bluetooth Speaker,5,1899,0.1,8545.5,5600,2945.5,Credit Card
+ORD00458,2025-08-20,CUST0248,North,Jaipur,Electronics,Bluetooth Speaker,5,1899,0.0,9495.0,5600,3895.0,UPI
+ORD00130,2025-08-20,CUST0012,West,Pune,Electronics,USB-C Hub,2,1499,0.1,2698.2,1760,938.2,Net Banking
+ORD00475,2025-08-20,CUST0328,West,Mumbai,Home & Kitchen,Water Bottle,1,499,0.15,424.15,220,204.15,Debit Card
+ORD01196,2025-08-20,CUST0005,East,Patna,Clothing,Cotton T-Shirt,4,599,0.15,2036.6,1040,996.6,Net Banking
+ORD00958,2025-08-20,CUST0102,North,Delhi,Beauty,Moisturizer,1,549,0.0,549.0,245,304.0,Net Banking
+ORD00782,2025-08-21,CUST0044,East,Patna,Home & Kitchen,Desk Lamp,1,1299,0.1,1169.1,690,479.1,Credit Card
+ORD00099,2025-08-21,CUST0162,West,Pune,Electronics,Bluetooth Speaker,2,1899,0.0,3798.0,2240,1558.0,Debit Card
+ORD01128,2025-08-21,CUST0174,East,Patna,Electronics,Bluetooth Speaker,4,1899,0.1,6836.4,4480,2356.4,Debit Card
+ORD00920,2025-08-21,CUST0074,East,Kolkata,Beauty,Sunscreen,2,399,0.1,718.2,340,378.2,Debit Card
+ORD00673,2025-08-21,CUST0327,North,Delhi,Home & Kitchen,Storage Organizer,4,899,0.0,3596.0,1720,1876.0,Credit Card
+ORD01068,2025-08-22,CUST0338,South,Chennai,Clothing,Cotton T-Shirt,2,599,0.05,1138.1,520,618.1,Net Banking
+ORD00616,2025-08-22,CUST0308,South,Hyderabad,Beauty,Moisturizer,3,549,0.0,1647.0,735,912.0,UPI
+ORD00600,2025-08-23,CUST0084,Central,Nagpur,Beauty,Moisturizer,5,549,0.15,2333.25,1225,1108.25,Debit Card
+ORD00569,2025-08-23,CUST0036,North,Delhi,Electronics,USB-C Hub,1,1499,0.0,1499.0,880,619.0,Net Banking
+ORD00026,2025-08-24,CUST0093,South,Chennai,Electronics,Wireless Mouse,1,799,0.0,799.0,470,329.0,Debit Card
+ORD00984,2025-08-25,CUST0217,North,Jaipur,Beauty,Moisturizer,1,549,0.0,549.0,245,304.0,Debit Card
+ORD01130,2025-08-25,CUST0084,Central,Indore,Electronics,Wireless Mouse,5,799,0.05,3795.25,2350,1445.25,Credit Card
+ORD00934,2025-08-25,CUST0050,South,Hyderabad,Electronics,USB-C Hub,5,1499,0.1,6745.5,4400,2345.5,Debit Card
+ORD00244,2025-08-26,CUST0029,West,Ahmedabad,Clothing,Cotton T-Shirt,3,599,0.05,1707.15,780,927.15,Cash
+ORD00771,2025-08-26,CUST0116,Central,Indore,Beauty,Moisturizer,4,549,0.05,2086.2,980,1106.2,Debit Card
+ORD00502,2025-08-26,CUST0009,South,Hyderabad,Clothing,Casual Shirt,4,1199,0.0,4796.0,2240,2556.0,Net Banking
+ORD01089,2025-08-26,CUST0274,North,Chandigarh,Home & Kitchen,Desk Lamp,4,1299,0.15,4416.6,2760,1656.6,Debit Card
+ORD00824,2025-08-26,CUST0122,South,Chennai,Electronics,USB-C Hub,3,1499,0.05,4272.15,2640,1632.15,UPI
+ORD00652,2025-08-27,CUST0153,Central,Bhopal,Electronics,Bluetooth Speaker,3,1899,0.05,5412.15,3360,2052.15,UPI
+ORD00986,2025-08-27,CUST0310,South,Bengaluru,Beauty,Sunscreen,1,399,0.15,339.15,170,169.15,Net Banking
+ORD00123,2025-08-27,CUST0265,Central,Indore,Clothing,Cotton T-Shirt,3,599,0.0,1797.0,780,1017.0,Credit Card
+ORD00003,2025-08-27,CUST0054,West,Pune,Clothing,Denim Jeans,5,1799,0.15,7645.75,4500,3145.75,Credit Card
+ORD00842,2025-08-28,CUST0143,East,Patna,Clothing,Cotton T-Shirt,3,599,0.0,1797.0,780,1017.0,Debit Card
+ORD00316,2025-08-29,CUST0235,East,Bhubaneswar,Clothing,Casual Shirt,5,1199,0.0,5995.0,2800,3195.0,Net Banking
+ORD00730,2025-08-29,CUST0211,Central,Bhopal,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Net Banking
+ORD00156,2025-08-30,CUST0126,West,Ahmedabad,Electronics,Bluetooth Speaker,5,1899,0.05,9020.25,5600,3420.25,Debit Card
+ORD00255,2025-08-30,CUST0322,East,Kolkata,Home & Kitchen,Desk Lamp,5,1299,0.15,5520.75,3450,2070.75,Net Banking
+ORD00446,2025-08-30,CUST0183,East,Kolkata,Clothing,Cotton T-Shirt,2,599,0.1,1078.2,520,558.2,Cash
+ORD00372,2025-08-30,CUST0296,West,Ahmedabad,Clothing,Cotton T-Shirt,1,599,0.0,599.0,260,339.0,Debit Card
+ORD00822,2025-08-31,CUST0026,North,Jaipur,Home & Kitchen,Desk Lamp,3,1299,0.0,3897.0,2070,1827.0,Credit Card
+ORD00819,2025-08-31,CUST0151,South,Chennai,Home & Kitchen,Desk Lamp,4,1299,0.1,4676.4,2760,1916.4,Credit Card
+ORD00237,2025-08-31,CUST0265,West,Ahmedabad,Electronics,Bluetooth Speaker,2,1899,0.0,3798.0,2240,1558.0,Credit Card
+ORD00479,2025-08-31,CUST0304,Central,Bhopal,Beauty,Sunscreen,2,399,0.05,758.1,340,418.1,Debit Card
+ORD00108,2025-08-31,CUST0130,East,Kolkata,Home & Kitchen,Water Bottle,3,499,0.0,1497.0,660,837.0,Cash
+ORD00162,2025-08-31,CUST0045,Central,Bhopal,Home & Kitchen,Water Bottle,1,499,0.1,449.1,220,229.1,Cash
+ORD00122,2025-09-01,CUST0101,West,Pune,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,Debit Card
+ORD00311,2025-09-01,CUST0281,North,Chandigarh,Clothing,Cotton T-Shirt,4,599,0.1,2156.4,1040,1116.4,Cash
+ORD01049,2025-09-01,CUST0053,South,Chennai,Home & Kitchen,Desk Lamp,2,1299,0.05,2468.1,1380,1088.1,Debit Card
+ORD00641,2025-09-02,CUST0096,South,Bengaluru,Electronics,Wireless Mouse,2,799,0.0,1598.0,940,658.0,UPI
+ORD00859,2025-09-02,CUST0238,South,Chennai,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,Cash
+ORD01132,2025-09-02,CUST0250,West,Ahmedabad,Beauty,Sunscreen,1,399,0.05,379.05,170,209.05,Credit Card
+ORD00736,2025-09-02,CUST0206,East,Patna,Electronics,Bluetooth Speaker,5,1899,0.0,9495.0,5600,3895.0,Cash
+ORD00080,2025-09-02,CUST0099,West,Ahmedabad,Home & Kitchen,Water Bottle,1,499,0.15,424.15,220,204.15,Credit Card
+ORD00283,2025-09-02,CUST0242,South,Chennai,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Debit Card
+ORD00312,2025-09-03,CUST0299,North,Chandigarh,Beauty,Moisturizer,2,549,0.0,1098.0,490,608.0,UPI
+ORD01071,2025-09-04,CUST0185,East,Bhubaneswar,Home & Kitchen,Water Bottle,3,499,0.0,1497.0,660,837.0,Debit Card
+ORD00257,2025-09-05,CUST0283,West,Pune,Home & Kitchen,Storage Organizer,3,899,0.1,2427.3,1290,1137.3,Credit Card
+ORD00416,2025-09-05,CUST0024,East,Patna,Home & Kitchen,Water Bottle,5,499,0.1,2245.5,1100,1145.5,Credit Card
+ORD00711,2025-09-05,CUST0252,East,Kolkata,Electronics,Bluetooth Speaker,3,1899,0.0,5697.0,3360,2337.0,Debit Card
+ORD00049,2025-09-05,CUST0329,West,Pune,Electronics,Wireless Mouse,3,799,0.0,2397.0,1410,987.0,UPI
+ORD00827,2025-09-06,CUST0310,Central,Bhopal,Home & Kitchen,Storage Organizer,2,899,0.0,1798.0,860,938.0,Net Banking
+ORD00550,2025-09-06,CUST0116,West,Mumbai,Clothing,Denim Jeans,3,1799,0.1,4857.3,2700,2157.3,Credit Card
+ORD00813,2025-09-07,CUST0154,Central,Indore,Clothing,Denim Jeans,3,1799,0.0,5397.0,2700,2697.0,Debit Card
+ORD00060,2025-09-07,CUST0168,South,Chennai,Beauty,Moisturizer,2,549,0.0,1098.0,490,608.0,Debit Card
+ORD00098,2025-09-07,CUST0220,West,Mumbai,Clothing,Denim Jeans,4,1799,0.05,6836.2,3600,3236.2,Debit Card
+ORD00191,2025-09-07,CUST0316,East,Patna,Electronics,Wireless Mouse,2,799,0.0,1598.0,940,658.0,Credit Card
+ORD00075,2025-09-08,CUST0001,North,Jaipur,Electronics,USB-C Hub,1,1499,0.1,1349.1,880,469.1,Credit Card
+ORD00636,2025-09-08,CUST0037,West,Pune,Home & Kitchen,Storage Organizer,1,899,0.1,809.1,430,379.1,Net Banking
+ORD00615,2025-09-08,CUST0324,West,Ahmedabad,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,Cash
+ORD00788,2025-09-08,CUST0036,West,Pune,Electronics,Wireless Mouse,5,799,0.0,3995.0,2350,1645.0,Credit Card
+ORD01062,2025-09-08,CUST0269,West,Mumbai,Beauty,Moisturizer,4,549,0.0,2196.0,980,1216.0,UPI
+ORD01149,2025-09-09,CUST0145,Central,Bhopal,Beauty,Sunscreen,5,399,0.0,1995.0,850,1145.0,Credit Card
+ORD00587,2025-09-09,CUST0220,North,Delhi,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,Cash
+ORD00941,2025-09-10,CUST0058,West,Ahmedabad,Clothing,Cotton T-Shirt,4,599,0.0,2396.0,1040,1356.0,UPI
+ORD01183,2025-09-10,CUST0072,North,Chandigarh,Beauty,Face Wash,1,299,0.1,269.1,125,144.1,UPI
+ORD00422,2025-09-11,CUST0196,Central,Bhopal,Home & Kitchen,Storage Organizer,2,899,0.0,1798.0,860,938.0,Cash
+ORD00666,2025-09-11,CUST0034,East,Patna,Clothing,Cotton T-Shirt,5,599,0.0,2995.0,1300,1695.0,Net Banking
+ORD00875,2025-09-12,CUST0322,North,Delhi,Clothing,Denim Jeans,2,1799,0.1,3238.2,1800,1438.2,Debit Card
+ORD00866,2025-09-12,CUST0127,South,Chennai,Home & Kitchen,Desk Lamp,3,1299,0.05,3702.15,2070,1632.15,Credit Card
+ORD00008,2025-09-12,CUST0003,West,Ahmedabad,Electronics,USB-C Hub,4,1499,0.1,5396.4,3520,1876.4,Net Banking
+ORD00175,2025-09-12,CUST0186,North,Chandigarh,Beauty,Sunscreen,1,399,0.05,379.05,170,209.05,Debit Card
+ORD00184,2025-09-12,CUST0099,North,Delhi,Home & Kitchen,Storage Organizer,5,899,0.0,4495.0,2150,2345.0,UPI
+ORD00932,2025-09-13,CUST0182,West,Pune,Beauty,Sunscreen,3,399,0.0,1197.0,510,687.0,UPI
+ORD00086,2025-09-13,CUST0138,Central,Nagpur,Home & Kitchen,Storage Organizer,2,899,0.1,1618.2,860,758.2,Debit Card
+ORD00204,2025-09-13,CUST0310,North,Jaipur,Electronics,USB-C Hub,3,1499,0.15,3822.45,2640,1182.45,UPI
+ORD00043,2025-09-13,CUST0136,North,Jaipur,Electronics,USB-C Hub,5,1499,0.05,7120.25,4400,2720.25,UPI
+ORD01194,2025-09-14,CUST0264,East,Patna,Clothing,Denim Jeans,3,1799,0.05,5127.15,2700,2427.15,Net Banking
+ORD00223,2025-09-14,CUST0273,South,Chennai,Beauty,Moisturizer,5,549,0.1,2470.5,1225,1245.5,Credit Card
+ORD00982,2025-09-14,CUST0056,North,Jaipur,Home & Kitchen,Water Bottle,3,499,0.1,1347.3,660,687.3,Debit Card
+ORD01041,2025-09-15,CUST0216,West,Ahmedabad,Home & Kitchen,Desk Lamp,4,1299,0.05,4936.2,2760,2176.2,Debit Card
+ORD01064,2025-09-15,CUST0085,West,Ahmedabad,Clothing,Casual Shirt,4,1199,0.1,4316.4,2240,2076.4,Credit Card
+ORD00110,2025-09-15,CUST0078,West,Ahmedabad,Home & Kitchen,Water Bottle,5,499,0.05,2370.25,1100,1270.25,Net Banking
+ORD00906,2025-09-16,CUST0178,East,Kolkata,Electronics,Bluetooth Speaker,2,1899,0.1,3418.2,2240,1178.2,Net Banking
+ORD00541,2025-09-16,CUST0030,South,Chennai,Beauty,Moisturizer,2,549,0.15,933.3,490,443.3,Cash
+ORD01045,2025-09-16,CUST0159,Central,Indore,Clothing,Cotton T-Shirt,4,599,0.0,2396.0,1040,1356.0,Credit Card
+ORD01077,2025-09-17,CUST0219,East,Kolkata,Home & Kitchen,Water Bottle,5,499,0.0,2495.0,1100,1395.0,Cash
+ORD00892,2025-09-17,CUST0178,East,Patna,Home & Kitchen,Water Bottle,3,499,0.05,1422.15,660,762.15,UPI
+ORD01197,2025-09-18,CUST0121,West,Pune,Beauty,Sunscreen,4,399,0.0,1596.0,680,916.0,Debit Card
+ORD00177,2025-09-19,CUST0252,North,Chandigarh,Home & Kitchen,Desk Lamp,3,1299,0.0,3897.0,2070,1827.0,Cash
+ORD00430,2025-09-19,CUST0347,South,Hyderabad,Beauty,Face Wash,1,299,0.05,284.05,125,159.05,UPI
+ORD00212,2025-09-19,CUST0090,South,Chennai,Home & Kitchen,Desk Lamp,5,1299,0.0,6495.0,3450,3045.0,UPI
+ORD00015,2025-09-19,CUST0258,East,Kolkata,Electronics,Wireless Mouse,5,799,0.05,3795.25,2350,1445.25,Debit Card
+ORD00774,2025-09-19,CUST0314,North,Jaipur,Electronics,Bluetooth Speaker,4,1899,0.15,6456.6,4480,1976.6,Credit Card
+ORD00395,2025-09-20,CUST0130,East,Bhubaneswar,Electronics,Bluetooth Speaker,4,1899,0.1,6836.4,4480,2356.4,Debit Card
+ORD00236,2025-09-20,CUST0059,West,Pune,Clothing,Denim Jeans,3,1799,0.0,5397.0,2700,2697.0,Debit Card
+ORD00697,2025-09-21,CUST0164,South,Bengaluru,Home & Kitchen,Storage Organizer,4,899,0.0,3596.0,1720,1876.0,Debit Card
+ORD00174,2025-09-21,CUST0316,East,Patna,Clothing,Cotton T-Shirt,2,599,0.05,1138.1,520,618.1,UPI
+ORD00727,2025-09-21,CUST0248,North,Jaipur,Beauty,Sunscreen,4,399,0.1,1436.4,680,756.4,UPI
+ORD00793,2025-09-21,CUST0035,South,Bengaluru,Beauty,Sunscreen,2,399,0.1,718.2,340,378.2,UPI
+ORD01119,2025-09-21,CUST0270,North,Chandigarh,Beauty,Face Wash,1,299,0.05,284.05,125,159.05,UPI
+ORD00225,2025-09-21,CUST0212,South,Hyderabad,Electronics,Bluetooth Speaker,4,1899,0.05,7216.2,4480,2736.2,Debit Card
+ORD00461,2025-09-22,CUST0169,Central,Bhopal,Home & Kitchen,Storage Organizer,1,899,0.15,764.15,430,334.15,Credit Card
+ORD00681,2025-09-22,CUST0106,South,Hyderabad,Clothing,Cotton T-Shirt,5,599,0.0,2995.0,1300,1695.0,Debit Card
+ORD01137,2025-09-22,CUST0349,South,Hyderabad,Clothing,Denim Jeans,2,1799,0.0,3598.0,1800,1798.0,Net Banking
+ORD00676,2025-09-22,CUST0339,North,Jaipur,Electronics,USB-C Hub,1,1499,0.05,1424.05,880,544.05,Cash
+ORD00713,2025-09-23,CUST0058,South,Chennai,Clothing,Casual Shirt,5,1199,0.0,5995.0,2800,3195.0,Cash
+ORD00318,2025-09-23,CUST0059,Central,Bhopal,Electronics,Wireless Mouse,3,799,0.0,2397.0,1410,987.0,Net Banking
+ORD00317,2025-09-24,CUST0325,Central,Indore,Beauty,Moisturizer,5,549,0.0,2745.0,1225,1520.0,Debit Card
+ORD01033,2025-09-24,CUST0288,Central,Indore,Electronics,Wireless Mouse,4,799,0.15,2716.6,1880,836.6,Debit Card
+ORD00737,2025-09-24,CUST0015,South,Bengaluru,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Net Banking
+ORD00760,2025-09-24,CUST0297,North,Jaipur,Home & Kitchen,Storage Organizer,4,899,0.0,3596.0,1720,1876.0,Cash
+ORD00731,2025-09-24,CUST0006,North,Delhi,Home & Kitchen,Water Bottle,1,499,0.05,474.05,220,254.05,Net Banking
+ORD01009,2025-09-25,CUST0094,West,Pune,Home & Kitchen,Water Bottle,4,499,0.0,1996.0,880,1116.0,Cash
+ORD00377,2025-09-26,CUST0013,South,Hyderabad,Home & Kitchen,Desk Lamp,1,1299,0.0,1299.0,690,609.0,Net Banking
+ORD00013,2025-09-26,CUST0237,Central,Nagpur,Home & Kitchen,Storage Organizer,1,899,0.0,899.0,430,469.0,Credit Card
+ORD01002,2025-09-26,CUST0103,North,Jaipur,Clothing,Cotton T-Shirt,3,599,0.0,1797.0,780,1017.0,Cash
+ORD00662,2025-09-26,CUST0243,Central,Indore,Clothing,Cotton T-Shirt,5,599,0.05,2845.25,1300,1545.25,Net Banking
+ORD00886,2025-09-26,CUST0181,East,Bhubaneswar,Clothing,Denim Jeans,2,1799,0.05,3418.1,1800,1618.1,UPI
+ORD00557,2025-09-26,CUST0182,Central,Indore,Home & Kitchen,Water Bottle,5,499,0.05,2370.25,1100,1270.25,Credit Card
+ORD00631,2025-09-26,CUST0221,East,Patna,Electronics,USB-C Hub,3,1499,0.1,4047.3,2640,1407.3,Debit Card
+ORD00215,2025-09-26,CUST0043,West,Pune,Home & Kitchen,Water Bottle,4,499,0.0,1996.0,880,1116.0,Cash
+ORD00603,2025-09-27,CUST0321,South,Chennai,Clothing,Casual Shirt,4,1199,0.1,4316.4,2240,2076.4,Cash
+ORD00471,2025-09-27,CUST0279,West,Mumbai,Electronics,Wireless Mouse,1,799,0.1,719.1,470,249.1,Debit Card
+ORD00432,2025-09-27,CUST0199,Central,Indore,Beauty,Sunscreen,4,399,0.05,1516.2,680,836.2,Debit Card
+ORD00739,2025-09-27,CUST0182,North,Delhi,Electronics,Wireless Mouse,1,799,0.05,759.05,470,289.05,Net Banking
+ORD00805,2025-09-27,CUST0178,Central,Nagpur,Electronics,Bluetooth Speaker,4,1899,0.1,6836.4,4480,2356.4,UPI
+ORD00757,2025-09-27,CUST0038,South,Bengaluru,Clothing,Denim Jeans,2,1799,0.0,3598.0,1800,1798.0,Net Banking
+ORD00059,2025-09-29,CUST0166,Central,Nagpur,Home & Kitchen,Water Bottle,2,499,0.0,998.0,440,558.0,Cash
+ORD01036,2025-09-29,CUST0305,West,Ahmedabad,Electronics,USB-C Hub,3,1499,0.05,4272.15,2640,1632.15,UPI
+ORD01139,2025-09-29,CUST0226,Central,Nagpur,Clothing,Denim Jeans,5,1799,0.15,7645.75,4500,3145.75,UPI
+ORD00878,2025-09-29,CUST0088,West,Pune,Home & Kitchen,Storage Organizer,1,899,0.1,809.1,430,379.1,UPI
+ORD00062,2025-09-29,CUST0048,East,Patna,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,Credit Card
+ORD00378,2025-09-30,CUST0324,West,Ahmedabad,Home & Kitchen,Desk Lamp,5,1299,0.0,6495.0,3450,3045.0,Cash
+ORD00512,2025-09-30,CUST0164,North,Chandigarh,Home & Kitchen,Water Bottle,1,499,0.1,449.1,220,229.1,Credit Card
+ORD00391,2025-09-30,CUST0115,East,Kolkata,Clothing,Cotton T-Shirt,4,599,0.15,2036.6,1040,996.6,Credit Card
+ORD00360,2025-10-01,CUST0137,South,Chennai,Beauty,Sunscreen,1,399,0.0,399.0,170,229.0,Debit Card
+ORD00895,2025-10-01,CUST0210,South,Bengaluru,Home & Kitchen,Storage Organizer,3,899,0.05,2562.15,1290,1272.15,Net Banking
+ORD00463,2025-10-01,CUST0042,North,Jaipur,Clothing,Denim Jeans,3,1799,0.05,5127.15,2700,2427.15,Debit Card
+ORD01065,2025-10-02,CUST0109,North,Delhi,Home & Kitchen,Desk Lamp,4,1299,0.0,5196.0,2760,2436.0,Debit Card
+ORD00493,2025-10-02,CUST0112,East,Kolkata,Clothing,Denim Jeans,2,1799,0.1,3238.2,1800,1438.2,Credit Card
+ORD01098,2025-10-03,CUST0013,East,Kolkata,Beauty,Moisturizer,2,549,0.0,1098.0,490,608.0,Cash
+ORD00234,2025-10-04,CUST0185,Central,Bhopal,Electronics,Wireless Mouse,1,799,0.0,799.0,470,329.0,Net Banking
+ORD00247,2025-10-04,CUST0150,Central,Indore,Home & Kitchen,Desk Lamp,3,1299,0.0,3897.0,2070,1827.0,Credit Card
+ORD00042,2025-10-04,CUST0043,West,Mumbai,Electronics,USB-C Hub,1,1499,0.05,1424.05,880,544.05,Net Banking
+ORD01073,2025-10-04,CUST0340,North,Chandigarh,Electronics,Wireless Mouse,3,799,0.0,2397.0,1410,987.0,Cash
+ORD00051,2025-10-05,CUST0086,North,Chandigarh,Electronics,USB-C Hub,5,1499,0.1,6745.5,4400,2345.5,Credit Card
+ORD00014,2025-10-05,CUST0272,Central,Indore,Clothing,Casual Shirt,5,1199,0.0,5995.0,2800,3195.0,Debit Card
+ORD00742,2025-10-06,CUST0005,East,Kolkata,Electronics,Bluetooth Speaker,2,1899,0.15,3228.3,2240,988.3,Cash
+ORD00714,2025-10-06,CUST0224,North,Chandigarh,Electronics,USB-C Hub,3,1499,0.05,4272.15,2640,1632.15,Debit Card
+ORD00207,2025-10-06,CUST0047,Central,Indore,Home & Kitchen,Desk Lamp,4,1299,0.05,4936.2,2760,2176.2,Net Banking
+ORD01134,2025-10-06,CUST0060,North,Delhi,Beauty,Face Wash,5,299,0.0,1495.0,625,870.0,UPI
+ORD00423,2025-10-07,CUST0011,South,Bengaluru,Beauty,Face Wash,2,299,0.0,598.0,250,348.0,Net Banking
+ORD00489,2025-10-07,CUST0137,Central,Nagpur,Home & Kitchen,Water Bottle,4,499,0.0,1996.0,880,1116.0,Cash
+ORD00657,2025-10-07,CUST0100,Central,Indore,Clothing,Casual Shirt,4,1199,0.0,4796.0,2240,2556.0,Net Banking
+ORD00128,2025-10-07,CUST0028,South,Bengaluru,Electronics,Bluetooth Speaker,3,1899,0.0,5697.0,3360,2337.0,UPI
+ORD00320,2025-10-08,CUST0025,North,Jaipur,Beauty,Face Wash,3,299,0.0,897.0,375,522.0,Cash
+ORD00089,2025-10-08,CUST0107,West,Mumbai,Electronics,Wireless Mouse,4,799,0.05,3036.2,1880,1156.2,UPI
+ORD01148,2025-10-08,CUST0205,East,Bhubaneswar,Home & Kitchen,Water Bottle,2,499,0.0,998.0,440,558.0,Cash
+ORD00911,2025-10-09,CUST0036,North,Chandigarh,Clothing,Cotton T-Shirt,3,599,0.0,1797.0,780,1017.0,UPI
+ORD00645,2025-10-09,CUST0192,West,Mumbai,Clothing,Casual Shirt,3,1199,0.0,3597.0,1680,1917.0,Cash
+ORD00370,2025-10-09,CUST0265,North,Jaipur,Clothing,Cotton T-Shirt,3,599,0.05,1707.15,780,927.15,Debit Card
+ORD00173,2025-10-09,CUST0065,East,Bhubaneswar,Beauty,Face Wash,1,299,0.0,299.0,125,174.0,Cash
+ORD00864,2025-10-09,CUST0036,West,Mumbai,Beauty,Moisturizer,4,549,0.1,1976.4,980,996.4,Debit Card
+ORD01058,2025-10-09,CUST0337,South,Chennai,Electronics,Bluetooth Speaker,1,1899,0.1,1709.1,1120,589.1,UPI
+ORD01061,2025-10-09,CUST0289,North,Chandigarh,Beauty,Moisturizer,1,549,0.1,494.1,245,249.1,Debit Card
+ORD00002,2025-10-10,CUST0284,Central,Bhopal,Beauty,Moisturizer,1,549,0.1,494.1,245,249.1,Debit Card
+ORD00734,2025-10-10,CUST0010,East,Bhubaneswar,Home & Kitchen,Water Bottle,5,499,0.1,2245.5,1100,1145.5,Cash
+ORD00402,2025-10-11,CUST0019,West,Ahmedabad,Electronics,Bluetooth Speaker,2,1899,0.05,3608.1,2240,1368.1,Credit Card
+ORD00815,2025-10-11,CUST0013,South,Hyderabad,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Cash
+ORD00836,2025-10-11,CUST0270,East,Bhubaneswar,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Cash
+ORD00598,2025-10-12,CUST0136,South,Bengaluru,Beauty,Sunscreen,3,399,0.1,1077.3,510,567.3,Credit Card
+ORD00210,2025-10-12,CUST0189,South,Bengaluru,Home & Kitchen,Water Bottle,4,499,0.1,1796.4,880,916.4,Net Banking
+ORD00112,2025-10-12,CUST0298,North,Delhi,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Cash
+ORD00107,2025-10-12,CUST0042,East,Kolkata,Beauty,Face Wash,1,299,0.05,284.05,125,159.05,Net Banking
+ORD00766,2025-10-12,CUST0101,North,Jaipur,Home & Kitchen,Storage Organizer,1,899,0.0,899.0,430,469.0,UPI
+ORD00602,2025-10-12,CUST0089,North,Delhi,Electronics,Bluetooth Speaker,2,1899,0.0,3798.0,2240,1558.0,Credit Card
+ORD00050,2025-10-12,CUST0126,South,Bengaluru,Beauty,Moisturizer,4,549,0.0,2196.0,980,1216.0,Net Banking
+ORD00806,2025-10-13,CUST0063,Central,Nagpur,Clothing,Cotton T-Shirt,2,599,0.0,1198.0,520,678.0,Credit Card
+ORD00690,2025-10-13,CUST0030,South,Chennai,Electronics,Bluetooth Speaker,2,1899,0.0,3798.0,2240,1558.0,Cash
+ORD00025,2025-10-13,CUST0259,East,Kolkata,Home & Kitchen,Desk Lamp,1,1299,0.15,1104.15,690,414.15,UPI
+ORD00278,2025-10-13,CUST0190,South,Bengaluru,Beauty,Face Wash,4,299,0.15,1016.6,500,516.6,UPI
+ORD00725,2025-10-14,CUST0289,North,Chandigarh,Electronics,Wireless Mouse,2,799,0.0,1598.0,940,658.0,Credit Card
+ORD00160,2025-10-14,CUST0248,East,Kolkata,Electronics,USB-C Hub,5,1499,0.05,7120.25,4400,2720.25,Credit Card
+ORD00918,2025-10-14,CUST0110,North,Chandigarh,Beauty,Face Wash,3,299,0.1,807.3,375,432.3,Debit Card
+ORD00016,2025-10-14,CUST0037,Central,Bhopal,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,Credit Card
+ORD00955,2025-10-14,CUST0024,Central,Nagpur,Electronics,Bluetooth Speaker,1,1899,0.05,1804.05,1120,684.05,Cash
+ORD00476,2025-10-14,CUST0215,West,Ahmedabad,Beauty,Face Wash,4,299,0.05,1136.2,500,636.2,Net Banking
+ORD00613,2025-10-14,CUST0138,Central,Indore,Electronics,USB-C Hub,5,1499,0.05,7120.25,4400,2720.25,Credit Card
+ORD00249,2025-10-15,CUST0339,East,Patna,Electronics,Wireless Mouse,1,799,0.15,679.15,470,209.15,UPI
+ORD00213,2025-10-15,CUST0138,West,Pune,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Net Banking
+ORD00106,2025-10-15,CUST0001,East,Kolkata,Clothing,Cotton T-Shirt,4,599,0.05,2276.2,1040,1236.2,Net Banking
+ORD00990,2025-10-15,CUST0048,Central,Nagpur,Home & Kitchen,Water Bottle,4,499,0.05,1896.2,880,1016.2,Debit Card
+ORD01133,2025-10-17,CUST0253,North,Jaipur,Beauty,Moisturizer,1,549,0.05,521.55,245,276.55,Debit Card
+ORD00639,2025-10-17,CUST0036,South,Bengaluru,Electronics,USB-C Hub,1,1499,0.0,1499.0,880,619.0,Debit Card
+ORD00559,2025-10-17,CUST0087,West,Mumbai,Electronics,Bluetooth Speaker,5,1899,0.0,9495.0,5600,3895.0,Cash
+ORD00261,2025-10-17,CUST0182,North,Delhi,Clothing,Denim Jeans,5,1799,0.0,8995.0,4500,4495.0,Cash
+ORD00745,2025-10-18,CUST0287,East,Kolkata,Beauty,Sunscreen,4,399,0.0,1596.0,680,916.0,Credit Card
+ORD00071,2025-10-18,CUST0013,South,Bengaluru,Clothing,Denim Jeans,2,1799,0.0,3598.0,1800,1798.0,Net Banking
+ORD00135,2025-10-18,CUST0165,South,Hyderabad,Beauty,Sunscreen,2,399,0.05,758.1,340,418.1,UPI
+ORD00692,2025-10-18,CUST0149,South,Bengaluru,Beauty,Face Wash,5,299,0.0,1495.0,625,870.0,Net Banking
+ORD00105,2025-10-18,CUST0055,North,Chandigarh,Clothing,Casual Shirt,5,1199,0.0,5995.0,2800,3195.0,Debit Card
+ORD00484,2025-10-18,CUST0153,Central,Bhopal,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,Credit Card
+ORD00716,2025-10-19,CUST0238,West,Pune,Clothing,Casual Shirt,5,1199,0.05,5695.25,2800,2895.25,Net Banking
+ORD01012,2025-10-19,CUST0275,Central,Nagpur,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Cash
+ORD00852,2025-10-20,CUST0194,East,Patna,Beauty,Moisturizer,4,549,0.0,2196.0,980,1216.0,Credit Card
+ORD00860,2025-10-20,CUST0250,South,Hyderabad,Home & Kitchen,Water Bottle,3,499,0.1,1347.3,660,687.3,Cash
+ORD00686,2025-10-20,CUST0227,West,Ahmedabad,Beauty,Moisturizer,4,549,0.05,2086.2,980,1106.2,Net Banking
+ORD00596,2025-10-20,CUST0055,Central,Indore,Home & Kitchen,Water Bottle,2,499,0.1,898.2,440,458.2,UPI
+ORD01087,2025-10-20,CUST0321,East,Kolkata,Home & Kitchen,Water Bottle,1,499,0.0,499.0,220,279.0,Net Banking
+ORD00591,2025-10-20,CUST0099,East,Kolkata,Beauty,Moisturizer,2,549,0.05,1043.1,490,553.1,Credit Card
+ORD00551,2025-10-21,CUST0071,North,Chandigarh,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Debit Card
+ORD00103,2025-10-21,CUST0102,East,Bhubaneswar,Electronics,Wireless Mouse,4,799,0.15,2716.6,1880,836.6,Net Banking
+ORD00428,2025-10-21,CUST0033,North,Delhi,Home & Kitchen,Desk Lamp,3,1299,0.05,3702.15,2070,1632.15,Debit Card
+ORD00092,2025-10-21,CUST0192,Central,Nagpur,Clothing,Denim Jeans,2,1799,0.05,3418.1,1800,1618.1,Cash
+ORD00654,2025-10-21,CUST0235,East,Kolkata,Home & Kitchen,Water Bottle,2,499,0.05,948.1,440,508.1,Debit Card
+ORD00472,2025-10-21,CUST0239,North,Jaipur,Home & Kitchen,Desk Lamp,1,1299,0.0,1299.0,690,609.0,Net Banking
+ORD01199,2025-10-21,CUST0346,West,Pune,Electronics,USB-C Hub,3,1499,0.1,4047.3,2640,1407.3,Net Banking
+ORD00291,2025-10-22,CUST0180,North,Delhi,Beauty,Face Wash,3,299,0.1,807.3,375,432.3,Credit Card
+ORD00837,2025-10-23,CUST0140,Central,Nagpur,Home & Kitchen,Storage Organizer,5,899,0.05,4270.25,2150,2120.25,Net Banking
+ORD01001,2025-10-23,CUST0187,North,Delhi,Clothing,Casual Shirt,5,1199,0.1,5395.5,2800,2595.5,Debit Card
+ORD00227,2025-10-23,CUST0184,North,Jaipur,Beauty,Sunscreen,4,399,0.0,1596.0,680,916.0,Net Banking
+ORD00336,2025-10-23,CUST0263,East,Patna,Electronics,Wireless Mouse,2,799,0.1,1438.2,940,498.2,Cash
+ORD00885,2025-10-24,CUST0114,Central,Indore,Beauty,Moisturizer,5,549,0.05,2607.75,1225,1382.75,Cash
+ORD00166,2025-10-25,CUST0254,North,Chandigarh,Home & Kitchen,Water Bottle,1,499,0.1,449.1,220,229.1,Debit Card
+ORD00514,2025-10-26,CUST0281,North,Delhi,Clothing,Cotton T-Shirt,1,599,0.0,599.0,260,339.0,Cash
+ORD00741,2025-10-26,CUST0255,West,Mumbai,Home & Kitchen,Water Bottle,5,499,0.0,2495.0,1100,1395.0,UPI
+ORD01025,2025-10-27,CUST0349,North,Delhi,Clothing,Cotton T-Shirt,1,599,0.1,539.1,260,279.1,Net Banking
+ORD00867,2025-10-27,CUST0170,West,Pune,Clothing,Denim Jeans,4,1799,0.0,7196.0,3600,3596.0,Cash
+ORD00149,2025-10-27,CUST0224,Central,Indore,Electronics,Bluetooth Speaker,3,1899,0.05,5412.15,3360,2052.15,Net Banking
+ORD00849,2025-10-27,CUST0096,East,Bhubaneswar,Beauty,Moisturizer,2,549,0.0,1098.0,490,608.0,Credit Card
+ORD00028,2025-10-28,CUST0081,South,Hyderabad,Clothing,Casual Shirt,2,1199,0.0,2398.0,1120,1278.0,Debit Card
+ORD00433,2025-10-29,CUST0010,Central,Indore,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,UPI
+ORD00302,2025-10-29,CUST0185,West,Ahmedabad,Clothing,Casual Shirt,5,1199,0.0,5995.0,2800,3195.0,UPI
+ORD00794,2025-10-29,CUST0323,West,Mumbai,Clothing,Denim Jeans,1,1799,0.05,1709.05,900,809.05,Debit Card
+ORD00605,2025-10-29,CUST0141,South,Hyderabad,Clothing,Cotton T-Shirt,3,599,0.1,1617.3,780,837.3,Cash
+ORD00524,2025-10-29,CUST0027,South,Chennai,Clothing,Cotton T-Shirt,1,599,0.0,599.0,260,339.0,Credit Card
+ORD01040,2025-10-29,CUST0200,East,Bhubaneswar,Clothing,Casual Shirt,5,1199,0.05,5695.25,2800,2895.25,Credit Card
+ORD00553,2025-10-30,CUST0044,South,Bengaluru,Home & Kitchen,Water Bottle,3,499,0.05,1422.15,660,762.15,Credit Card
+ORD00334,2025-10-30,CUST0292,West,Mumbai,Electronics,USB-C Hub,3,1499,0.05,4272.15,2640,1632.15,Net Banking
+ORD00038,2025-10-30,CUST0040,Central,Bhopal,Home & Kitchen,Desk Lamp,2,1299,0.1,2338.2,1380,958.2,Cash
+ORD00482,2025-10-30,CUST0266,East,Bhubaneswar,Beauty,Moisturizer,1,549,0.0,549.0,245,304.0,Cash
+ORD00545,2025-10-31,CUST0193,East,Patna,Electronics,USB-C Hub,4,1499,0.1,5396.4,3520,1876.4,Cash
+ORD00388,2025-10-31,CUST0283,West,Mumbai,Clothing,Cotton T-Shirt,2,599,0.0,1198.0,520,678.0,Debit Card
+ORD00101,2025-10-31,CUST0083,South,Chennai,Electronics,Wireless Mouse,4,799,0.1,2876.4,1880,996.4,UPI
+ORD00084,2025-10-31,CUST0346,West,Ahmedabad,Electronics,Wireless Mouse,5,799,0.0,3995.0,2350,1645.0,Debit Card
+ORD00090,2025-10-31,CUST0263,North,Delhi,Home & Kitchen,Desk Lamp,4,1299,0.1,4676.4,2760,1916.4,Credit Card
+ORD00611,2025-11-01,CUST0267,South,Hyderabad,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,Credit Card
+ORD00582,2025-11-01,CUST0163,East,Bhubaneswar,Clothing,Denim Jeans,5,1799,0.05,8545.25,4500,4045.25,Credit Card
+ORD01097,2025-11-01,CUST0330,North,Delhi,Electronics,Wireless Mouse,3,799,0.0,2397.0,1410,987.0,UPI
+ORD01080,2025-11-02,CUST0126,East,Patna,Home & Kitchen,Desk Lamp,5,1299,0.1,5845.5,3450,2395.5,Net Banking
+ORD01016,2025-11-02,CUST0135,North,Chandigarh,Beauty,Moisturizer,3,549,0.1,1482.3,735,747.3,Credit Card
+ORD00868,2025-11-02,CUST0185,South,Hyderabad,Electronics,USB-C Hub,4,1499,0.05,5696.2,3520,2176.2,UPI
+ORD00816,2025-11-02,CUST0277,North,Jaipur,Electronics,Wireless Mouse,1,799,0.0,799.0,470,329.0,Net Banking
+ORD00589,2025-11-02,CUST0048,East,Bhubaneswar,Beauty,Sunscreen,5,399,0.0,1995.0,850,1145.0,Credit Card
+ORD00459,2025-11-03,CUST0191,Central,Indore,Electronics,USB-C Hub,4,1499,0.05,5696.2,3520,2176.2,Net Banking
+ORD01086,2025-11-03,CUST0073,North,Chandigarh,Beauty,Sunscreen,1,399,0.1,359.1,170,189.1,UPI
+ORD01125,2025-11-03,CUST0199,South,Bengaluru,Home & Kitchen,Desk Lamp,3,1299,0.0,3897.0,2070,1827.0,Debit Card
+ORD00963,2025-11-03,CUST0246,West,Ahmedabad,Electronics,Wireless Mouse,2,799,0.0,1598.0,940,658.0,Cash
+ORD00019,2025-11-03,CUST0312,Central,Indore,Home & Kitchen,Storage Organizer,2,899,0.0,1798.0,860,938.0,Net Banking
+ORD00513,2025-11-03,CUST0028,Central,Nagpur,Beauty,Face Wash,1,299,0.05,284.05,125,159.05,Cash
+ORD01093,2025-11-04,CUST0291,East,Kolkata,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,Credit Card
+ORD01126,2025-11-04,CUST0165,East,Kolkata,Electronics,USB-C Hub,2,1499,0.0,2998.0,1760,1238.0,Debit Card
+ORD00093,2025-11-04,CUST0023,West,Ahmedabad,Beauty,Moisturizer,2,549,0.05,1043.1,490,553.1,Credit Card
+ORD01024,2025-11-04,CUST0342,Central,Bhopal,Electronics,Bluetooth Speaker,5,1899,0.0,9495.0,5600,3895.0,UPI
+ORD00590,2025-11-04,CUST0086,East,Patna,Home & Kitchen,Storage Organizer,5,899,0.0,4495.0,2150,2345.0,Net Banking
+ORD00865,2025-11-05,CUST0232,North,Chandigarh,Home & Kitchen,Storage Organizer,2,899,0.1,1618.2,860,758.2,Debit Card
+ORD01144,2025-11-05,CUST0225,East,Bhubaneswar,Home & Kitchen,Water Bottle,4,499,0.05,1896.2,880,1016.2,Cash
+ORD00361,2025-11-05,CUST0137,West,Ahmedabad,Clothing,Cotton T-Shirt,4,599,0.1,2156.4,1040,1116.4,Net Banking
+ORD00775,2025-11-05,CUST0329,South,Bengaluru,Beauty,Sunscreen,4,399,0.0,1596.0,680,916.0,Debit Card
+ORD00723,2025-11-05,CUST0196,South,Bengaluru,Clothing,Cotton T-Shirt,3,599,0.0,1797.0,780,1017.0,Debit Card
+ORD01163,2025-11-06,CUST0183,West,Pune,Electronics,Bluetooth Speaker,3,1899,0.15,4842.45,3360,1482.45,Debit Card
+ORD00477,2025-11-06,CUST0068,South,Hyderabad,Clothing,Denim Jeans,1,1799,0.05,1709.05,900,809.05,UPI
+ORD00650,2025-11-06,CUST0026,West,Pune,Home & Kitchen,Storage Organizer,4,899,0.0,3596.0,1720,1876.0,Credit Card
+ORD01158,2025-11-07,CUST0138,South,Bengaluru,Beauty,Moisturizer,1,549,0.15,466.65,245,221.65,Credit Card
+ORD01150,2025-11-07,CUST0259,Central,Indore,Clothing,Denim Jeans,4,1799,0.05,6836.2,3600,3236.2,Cash
+ORD00856,2025-11-07,CUST0312,South,Chennai,Clothing,Denim Jeans,4,1799,0.0,7196.0,3600,3596.0,Credit Card
+ORD00882,2025-11-07,CUST0285,West,Ahmedabad,Home & Kitchen,Storage Organizer,4,899,0.05,3416.2,1720,1696.2,Debit Card
+ORD00780,2025-11-07,CUST0032,East,Kolkata,Home & Kitchen,Desk Lamp,3,1299,0.1,3507.3,2070,1437.3,Cash
+ORD00560,2025-11-07,CUST0168,North,Chandigarh,Beauty,Sunscreen,1,399,0.05,379.05,170,209.05,Cash
+ORD01007,2025-11-07,CUST0301,North,Chandigarh,Home & Kitchen,Desk Lamp,3,1299,0.0,3897.0,2070,1827.0,UPI
+ORD00297,2025-11-07,CUST0178,South,Hyderabad,Home & Kitchen,Storage Organizer,4,899,0.0,3596.0,1720,1876.0,Cash
+ORD00643,2025-11-08,CUST0252,North,Chandigarh,Clothing,Denim Jeans,3,1799,0.0,5397.0,2700,2697.0,Debit Card
+ORD01127,2025-11-08,CUST0154,East,Patna,Beauty,Sunscreen,5,399,0.0,1995.0,850,1145.0,Credit Card
+ORD00146,2025-11-08,CUST0236,South,Hyderabad,Beauty,Sunscreen,3,399,0.0,1197.0,510,687.0,UPI
+ORD00835,2025-11-08,CUST0333,South,Chennai,Clothing,Cotton T-Shirt,1,599,0.0,599.0,260,339.0,UPI
+ORD00232,2025-11-09,CUST0238,North,Delhi,Clothing,Cotton T-Shirt,5,599,0.1,2695.5,1300,1395.5,Net Banking
+ORD00125,2025-11-09,CUST0273,South,Chennai,Electronics,Wireless Mouse,5,799,0.05,3795.25,2350,1445.25,UPI
+ORD01042,2025-11-09,CUST0119,West,Ahmedabad,Clothing,Denim Jeans,5,1799,0.0,8995.0,4500,4495.0,Cash
+ORD00151,2025-11-09,CUST0256,Central,Bhopal,Beauty,Face Wash,2,299,0.0,598.0,250,348.0,Net Banking
+ORD00006,2025-11-10,CUST0190,West,Pune,Home & Kitchen,Water Bottle,1,499,0.05,474.05,220,254.05,Net Banking
+ORD00610,2025-11-10,CUST0151,South,Bengaluru,Clothing,Cotton T-Shirt,2,599,0.0,1198.0,520,678.0,Net Banking
+ORD00037,2025-11-10,CUST0319,Central,Indore,Electronics,Wireless Mouse,3,799,0.05,2277.15,1410,867.15,Net Banking
+ORD00668,2025-11-11,CUST0280,South,Bengaluru,Electronics,Bluetooth Speaker,4,1899,0.05,7216.2,4480,2736.2,UPI
+ORD00427,2025-11-12,CUST0194,South,Bengaluru,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,Credit Card
+ORD00829,2025-11-12,CUST0193,South,Chennai,Electronics,Wireless Mouse,4,799,0.0,3196.0,1880,1316.0,UPI
+ORD00492,2025-11-13,CUST0177,West,Mumbai,Home & Kitchen,Storage Organizer,1,899,0.0,899.0,430,469.0,Credit Card
+ORD00504,2025-11-13,CUST0350,North,Chandigarh,Clothing,Cotton T-Shirt,4,599,0.0,2396.0,1040,1356.0,Credit Card
+ORD01023,2025-11-14,CUST0225,East,Kolkata,Beauty,Sunscreen,5,399,0.05,1895.25,850,1045.25,UPI
+ORD00921,2025-11-15,CUST0130,North,Chandigarh,Electronics,USB-C Hub,1,1499,0.0,1499.0,880,619.0,UPI
+ORD00396,2025-11-16,CUST0049,West,Ahmedabad,Clothing,Cotton T-Shirt,5,599,0.0,2995.0,1300,1695.0,Net Banking
+ORD00558,2025-11-16,CUST0050,East,Patna,Clothing,Denim Jeans,5,1799,0.0,8995.0,4500,4495.0,Credit Card
+ORD00781,2025-11-17,CUST0003,East,Patna,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,UPI
+ORD00812,2025-11-17,CUST0158,Central,Bhopal,Beauty,Moisturizer,1,549,0.05,521.55,245,276.55,UPI
+ORD00517,2025-11-18,CUST0010,South,Hyderabad,Beauty,Sunscreen,3,399,0.0,1197.0,510,687.0,UPI
+ORD01141,2025-11-18,CUST0119,East,Patna,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,Cash
+ORD00904,2025-11-19,CUST0143,West,Ahmedabad,Beauty,Face Wash,4,299,0.0,1196.0,500,696.0,Debit Card
+ORD01004,2025-11-20,CUST0343,East,Kolkata,Electronics,Wireless Mouse,5,799,0.05,3795.25,2350,1445.25,UPI
+ORD00375,2025-11-20,CUST0093,Central,Bhopal,Home & Kitchen,Desk Lamp,4,1299,0.05,4936.2,2760,2176.2,Credit Card
+ORD00035,2025-11-21,CUST0173,East,Kolkata,Electronics,Wireless Mouse,3,799,0.1,2157.3,1410,747.3,UPI
+ORD00565,2025-11-21,CUST0122,South,Bengaluru,Beauty,Moisturizer,4,549,0.0,2196.0,980,1216.0,UPI
+ORD00358,2025-11-22,CUST0038,Central,Bhopal,Clothing,Cotton T-Shirt,1,599,0.1,539.1,260,279.1,UPI
+ORD00362,2025-11-22,CUST0187,East,Patna,Electronics,Bluetooth Speaker,2,1899,0.0,3798.0,2240,1558.0,Net Banking
+ORD00389,2025-11-22,CUST0049,East,Bhubaneswar,Home & Kitchen,Water Bottle,2,499,0.0,998.0,440,558.0,Debit Card
+ORD00048,2025-11-22,CUST0324,West,Ahmedabad,Clothing,Cotton T-Shirt,5,599,0.0,2995.0,1300,1695.0,Debit Card
+ORD00579,2025-11-23,CUST0130,North,Chandigarh,Clothing,Denim Jeans,5,1799,0.05,8545.25,4500,4045.25,UPI
+ORD00364,2025-11-23,CUST0298,South,Hyderabad,Electronics,Bluetooth Speaker,3,1899,0.0,5697.0,3360,2337.0,Net Banking
+ORD00740,2025-11-24,CUST0105,East,Kolkata,Home & Kitchen,Water Bottle,3,499,0.05,1422.15,660,762.15,Cash
+ORD00095,2025-11-24,CUST0297,West,Pune,Beauty,Sunscreen,3,399,0.15,1017.45,510,507.45,Net Banking
+ORD00828,2025-11-24,CUST0103,West,Mumbai,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,Cash
+ORD00304,2025-11-24,CUST0266,South,Bengaluru,Beauty,Moisturizer,1,549,0.0,549.0,245,304.0,Credit Card
+ORD00179,2025-11-25,CUST0317,Central,Nagpur,Electronics,USB-C Hub,4,1499,0.1,5396.4,3520,1876.4,Debit Card
+ORD00592,2025-11-26,CUST0150,East,Bhubaneswar,Beauty,Sunscreen,5,399,0.05,1895.25,850,1045.25,Debit Card
+ORD00220,2025-11-26,CUST0003,North,Jaipur,Clothing,Denim Jeans,4,1799,0.15,6116.6,3600,2516.6,Cash
+ORD01037,2025-11-26,CUST0182,Central,Bhopal,Beauty,Sunscreen,3,399,0.1,1077.3,510,567.3,Credit Card
+ORD00067,2025-11-27,CUST0011,South,Hyderabad,Home & Kitchen,Desk Lamp,3,1299,0.1,3507.3,2070,1437.3,Cash
+ORD00345,2025-11-27,CUST0103,North,Delhi,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,Credit Card
+ORD01108,2025-11-28,CUST0057,Central,Indore,Electronics,Wireless Mouse,1,799,0.0,799.0,470,329.0,Debit Card
+ORD01154,2025-11-28,CUST0043,East,Kolkata,Home & Kitchen,Storage Organizer,2,899,0.05,1708.1,860,848.1,Cash
+ORD00202,2025-11-28,CUST0346,Central,Indore,Home & Kitchen,Storage Organizer,2,899,0.0,1798.0,860,938.0,Debit Card
+ORD00843,2025-11-28,CUST0231,West,Ahmedabad,Home & Kitchen,Water Bottle,3,499,0.15,1272.45,660,612.45,Debit Card
+ORD00840,2025-11-29,CUST0196,North,Jaipur,Electronics,USB-C Hub,3,1499,0.1,4047.3,2640,1407.3,Cash
+ORD00943,2025-11-30,CUST0243,South,Hyderabad,Home & Kitchen,Desk Lamp,2,1299,0.05,2468.1,1380,1088.1,Credit Card
+ORD00529,2025-12-01,CUST0047,East,Patna,Beauty,Sunscreen,5,399,0.0,1995.0,850,1145.0,UPI
+ORD01170,2025-12-01,CUST0128,West,Pune,Electronics,Wireless Mouse,3,799,0.05,2277.15,1410,867.15,Cash
+ORD00324,2025-12-01,CUST0121,North,Jaipur,Electronics,USB-C Hub,5,1499,0.15,6370.75,4400,1970.75,Credit Card
+ORD00642,2025-12-01,CUST0090,West,Ahmedabad,Electronics,Bluetooth Speaker,4,1899,0.15,6456.6,4480,1976.6,Cash
+ORD00153,2025-12-01,CUST0204,South,Hyderabad,Clothing,Cotton T-Shirt,4,599,0.0,2396.0,1040,1356.0,Debit Card
+ORD01081,2025-12-02,CUST0179,North,Jaipur,Home & Kitchen,Water Bottle,3,499,0.0,1497.0,660,837.0,UPI
+ORD01103,2025-12-02,CUST0196,South,Chennai,Electronics,Bluetooth Speaker,2,1899,0.15,3228.3,2240,988.3,Debit Card
+ORD00969,2025-12-02,CUST0099,Central,Bhopal,Electronics,Bluetooth Speaker,5,1899,0.1,8545.5,5600,2945.5,Net Banking
+ORD00715,2025-12-02,CUST0250,West,Mumbai,Beauty,Face Wash,5,299,0.0,1495.0,625,870.0,Cash
+ORD00669,2025-12-02,CUST0291,North,Chandigarh,Electronics,USB-C Hub,1,1499,0.05,1424.05,880,544.05,UPI
+ORD00804,2025-12-02,CUST0226,North,Jaipur,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,Debit Card
+ORD00530,2025-12-03,CUST0106,South,Bengaluru,Clothing,Cotton T-Shirt,5,599,0.1,2695.5,1300,1395.5,Debit Card
+ORD00061,2025-12-03,CUST0032,South,Bengaluru,Home & Kitchen,Storage Organizer,1,899,0.05,854.05,430,424.05,Net Banking
+ORD00733,2025-12-03,CUST0326,Central,Indore,Beauty,Sunscreen,2,399,0.1,718.2,340,378.2,Cash
+ORD01006,2025-12-03,CUST0225,West,Pune,Clothing,Casual Shirt,4,1199,0.0,4796.0,2240,2556.0,Credit Card
+ORD00577,2025-12-04,CUST0192,West,Mumbai,Home & Kitchen,Storage Organizer,5,899,0.05,4270.25,2150,2120.25,Cash
+ORD00586,2025-12-04,CUST0339,North,Chandigarh,Home & Kitchen,Desk Lamp,1,1299,0.1,1169.1,690,479.1,Debit Card
+ORD00527,2025-12-04,CUST0181,North,Delhi,Home & Kitchen,Water Bottle,3,499,0.0,1497.0,660,837.0,UPI
+ORD00264,2025-12-04,CUST0336,West,Mumbai,Electronics,USB-C Hub,4,1499,0.05,5696.2,3520,2176.2,Net Banking
+ORD00452,2025-12-04,CUST0003,West,Ahmedabad,Beauty,Moisturizer,3,549,0.1,1482.3,735,747.3,Debit Card
+ORD01067,2025-12-04,CUST0034,South,Hyderabad,Beauty,Moisturizer,2,549,0.0,1098.0,490,608.0,Credit Card
+ORD00438,2025-12-05,CUST0159,West,Ahmedabad,Clothing,Cotton T-Shirt,3,599,0.15,1527.45,780,747.45,Credit Card
+ORD00421,2025-12-05,CUST0196,East,Kolkata,Clothing,Denim Jeans,2,1799,0.1,3238.2,1800,1438.2,Cash
+ORD00862,2025-12-05,CUST0160,Central,Indore,Clothing,Casual Shirt,1,1199,0.05,1139.05,560,579.05,Credit Card
+ORD00024,2025-12-05,CUST0112,East,Kolkata,Electronics,Wireless Mouse,1,799,0.05,759.05,470,289.05,Net Banking
+ORD01182,2025-12-05,CUST0312,Central,Bhopal,Electronics,USB-C Hub,1,1499,0.05,1424.05,880,544.05,Debit Card
+ORD00499,2025-12-05,CUST0046,Central,Bhopal,Beauty,Face Wash,5,299,0.15,1270.75,625,645.75,Debit Card
+ORD00722,2025-12-06,CUST0261,North,Chandigarh,Clothing,Cotton T-Shirt,1,599,0.0,599.0,260,339.0,Credit Card
+ORD00693,2025-12-06,CUST0073,West,Ahmedabad,Beauty,Sunscreen,1,399,0.05,379.05,170,209.05,UPI
+ORD01143,2025-12-06,CUST0049,Central,Bhopal,Electronics,Wireless Mouse,5,799,0.0,3995.0,2350,1645.0,Cash
+ORD00470,2025-12-07,CUST0228,South,Chennai,Home & Kitchen,Water Bottle,4,499,0.15,1696.6,880,816.6,Net Banking
+ORD00491,2025-12-07,CUST0213,North,Chandigarh,Beauty,Moisturizer,4,549,0.1,1976.4,980,996.4,Cash
+ORD00382,2025-12-08,CUST0274,Central,Indore,Electronics,Bluetooth Speaker,5,1899,0.05,9020.25,5600,3420.25,Cash
+ORD00754,2025-12-08,CUST0251,East,Patna,Electronics,Bluetooth Speaker,3,1899,0.0,5697.0,3360,2337.0,Debit Card
+ORD00348,2025-12-08,CUST0229,Central,Nagpur,Clothing,Cotton T-Shirt,2,599,0.05,1138.1,520,618.1,UPI
+ORD00409,2025-12-08,CUST0093,West,Ahmedabad,Clothing,Denim Jeans,3,1799,0.1,4857.3,2700,2157.3,Credit Card
+ORD00680,2025-12-08,CUST0047,North,Chandigarh,Electronics,USB-C Hub,3,1499,0.0,4497.0,2640,1857.0,UPI
+ORD00764,2025-12-08,CUST0238,East,Patna,Beauty,Sunscreen,1,399,0.0,399.0,170,229.0,Debit Card
+ORD00319,2025-12-09,CUST0118,East,Bhubaneswar,Electronics,Bluetooth Speaker,4,1899,0.0,7596.0,4480,3116.0,Debit Card
+ORD00181,2025-12-09,CUST0221,Central,Nagpur,Clothing,Denim Jeans,2,1799,0.0,3598.0,1800,1798.0,Net Banking
+ORD00286,2025-12-09,CUST0072,Central,Bhopal,Home & Kitchen,Desk Lamp,2,1299,0.05,2468.1,1380,1088.1,Debit Card
+ORD00081,2025-12-10,CUST0276,East,Patna,Electronics,Bluetooth Speaker,1,1899,0.0,1899.0,1120,779.0,Cash
+ORD00936,2025-12-10,CUST0199,East,Patna,Clothing,Denim Jeans,4,1799,0.0,7196.0,3600,3596.0,Cash
+ORD01109,2025-12-10,CUST0093,North,Chandigarh,Electronics,USB-C Hub,1,1499,0.05,1424.05,880,544.05,Cash
+ORD00949,2025-12-12,CUST0298,North,Jaipur,Home & Kitchen,Desk Lamp,5,1299,0.05,6170.25,3450,2720.25,Credit Card
+ORD00694,2025-12-12,CUST0309,South,Hyderabad,Beauty,Moisturizer,4,549,0.1,1976.4,980,996.4,UPI
+ORD00383,2025-12-12,CUST0246,East,Patna,Home & Kitchen,Desk Lamp,1,1299,0.0,1299.0,690,609.0,Credit Card
+ORD00926,2025-12-12,CUST0033,North,Delhi,Home & Kitchen,Desk Lamp,1,1299,0.0,1299.0,690,609.0,Credit Card
+ORD00763,2025-12-13,CUST0220,North,Chandigarh,Home & Kitchen,Storage Organizer,4,899,0.0,3596.0,1720,1876.0,Credit Card
+ORD00571,2025-12-13,CUST0056,East,Bhubaneswar,Clothing,Denim Jeans,1,1799,0.0,1799.0,900,899.0,Net Banking
+ORD00965,2025-12-13,CUST0323,East,Patna,Home & Kitchen,Desk Lamp,4,1299,0.0,5196.0,2760,2436.0,Net Banking
+ORD00640,2025-12-13,CUST0006,West,Pune,Clothing,Casual Shirt,4,1199,0.0,4796.0,2240,2556.0,Credit Card
+ORD00671,2025-12-14,CUST0040,Central,Indore,Home & Kitchen,Storage Organizer,5,899,0.05,4270.25,2150,2120.25,UPI
+ORD00340,2025-12-14,CUST0335,West,Pune,Electronics,Wireless Mouse,1,799,0.0,799.0,470,329.0,Cash
+ORD00776,2025-12-14,CUST0149,East,Patna,Clothing,Casual Shirt,2,1199,0.1,2158.2,1120,1038.2,Net Banking
+ORD00448,2025-12-15,CUST0214,West,Pune,Clothing,Denim Jeans,2,1799,0.0,3598.0,1800,1798.0,UPI
+ORD00293,2025-12-15,CUST0192,South,Hyderabad,Beauty,Sunscreen,3,399,0.0,1197.0,510,687.0,Debit Card
+ORD00274,2025-12-16,CUST0253,West,Mumbai,Electronics,USB-C Hub,5,1499,0.0,7495.0,4400,3095.0,Debit Card
+ORD01054,2025-12-16,CUST0076,Central,Indore,Home & Kitchen,Storage Organizer,4,899,0.0,3596.0,1720,1876.0,UPI
+ORD01083,2025-12-16,CUST0190,West,Ahmedabad,Clothing,Denim Jeans,1,1799,0.05,1709.05,900,809.05,UPI
+ORD00684,2025-12-16,CUST0114,South,Hyderabad,Clothing,Casual Shirt,3,1199,0.0,3597.0,1680,1917.0,Cash
+ORD00515,2025-12-17,CUST0168,West,Mumbai,Beauty,Moisturizer,4,549,0.15,1866.6,980,886.6,Cash
+ORD00649,2025-12-17,CUST0015,West,Pune,Clothing,Denim Jeans,4,1799,0.05,6836.2,3600,3236.2,Net Banking
+ORD00195,2025-12-17,CUST0347,East,Patna,Home & Kitchen,Storage Organizer,3,899,0.1,2427.3,1290,1137.3,UPI
+ORD00751,2025-12-17,CUST0173,North,Chandigarh,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Net Banking
+ORD00683,2025-12-17,CUST0149,North,Delhi,Electronics,USB-C Hub,5,1499,0.0,7495.0,4400,3095.0,Debit Card
+ORD00451,2025-12-17,CUST0188,East,Kolkata,Home & Kitchen,Water Bottle,5,499,0.0,2495.0,1100,1395.0,Cash
+ORD00200,2025-12-18,CUST0343,North,Chandigarh,Clothing,Denim Jeans,1,1799,0.1,1619.1,900,719.1,Credit Card
+ORD00503,2025-12-18,CUST0002,South,Chennai,Home & Kitchen,Desk Lamp,4,1299,0.05,4936.2,2760,2176.2,Debit Card
+ORD00999,2025-12-18,CUST0320,West,Mumbai,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,Debit Card
+ORD00337,2025-12-18,CUST0109,North,Chandigarh,Home & Kitchen,Water Bottle,2,499,0.05,948.1,440,508.1,Credit Card
+ORD00853,2025-12-18,CUST0301,Central,Bhopal,Home & Kitchen,Water Bottle,2,499,0.1,898.2,440,458.2,Cash
+ORD00466,2025-12-19,CUST0120,West,Pune,Clothing,Cotton T-Shirt,3,599,0.0,1797.0,780,1017.0,Cash
+ORD00609,2025-12-19,CUST0154,North,Delhi,Home & Kitchen,Desk Lamp,5,1299,0.0,6495.0,3450,3045.0,UPI
+ORD00797,2025-12-20,CUST0237,West,Ahmedabad,Clothing,Casual Shirt,5,1199,0.15,5095.75,2800,2295.75,Cash
+ORD00417,2025-12-20,CUST0233,Central,Bhopal,Beauty,Moisturizer,1,549,0.05,521.55,245,276.55,Credit Card
+ORD00355,2025-12-20,CUST0303,South,Hyderabad,Home & Kitchen,Storage Organizer,2,899,0.0,1798.0,860,938.0,Credit Card
+ORD00208,2025-12-20,CUST0348,East,Kolkata,Home & Kitchen,Storage Organizer,5,899,0.0,4495.0,2150,2345.0,Cash
+ORD00861,2025-12-20,CUST0050,South,Hyderabad,Home & Kitchen,Storage Organizer,1,899,0.1,809.1,430,379.1,Cash
+ORD00064,2025-12-20,CUST0078,North,Jaipur,Beauty,Moisturizer,1,549,0.0,549.0,245,304.0,Debit Card
+ORD00959,2025-12-21,CUST0042,South,Hyderabad,Clothing,Casual Shirt,5,1199,0.0,5995.0,2800,3195.0,Debit Card
+ORD00046,2025-12-21,CUST0294,East,Kolkata,Electronics,Wireless Mouse,2,799,0.1,1438.2,940,498.2,Credit Card
+ORD00404,2025-12-21,CUST0320,North,Jaipur,Home & Kitchen,Water Bottle,5,499,0.1,2245.5,1100,1145.5,Net Banking
+ORD00441,2025-12-22,CUST0213,East,Bhubaneswar,Beauty,Face Wash,1,299,0.05,284.05,125,159.05,UPI
+ORD00325,2025-12-22,CUST0193,East,Patna,Home & Kitchen,Desk Lamp,3,1299,0.0,3897.0,2070,1827.0,Net Banking
+ORD00947,2025-12-22,CUST0142,West,Mumbai,Clothing,Cotton T-Shirt,2,599,0.0,1198.0,520,678.0,Credit Card
+ORD00012,2025-12-23,CUST0158,Central,Nagpur,Home & Kitchen,Desk Lamp,2,1299,0.05,2468.1,1380,1088.1,Credit Card
+ORD00894,2025-12-24,CUST0085,West,Mumbai,Home & Kitchen,Desk Lamp,2,1299,0.0,2598.0,1380,1218.0,Debit Card
+ORD00914,2025-12-24,CUST0309,South,Bengaluru,Clothing,Casual Shirt,4,1199,0.0,4796.0,2240,2556.0,Credit Card
+ORD00594,2025-12-24,CUST0079,Central,Bhopal,Beauty,Sunscreen,3,399,0.1,1077.3,510,567.3,Credit Card
+ORD00851,2025-12-24,CUST0303,West,Mumbai,Electronics,Bluetooth Speaker,5,1899,0.0,9495.0,5600,3895.0,UPI
+ORD01198,2025-12-25,CUST0116,North,Delhi,Electronics,Bluetooth Speaker,5,1899,0.1,8545.5,5600,2945.5,Debit Card
+ORD00141,2025-12-25,CUST0185,East,Patna,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Net Banking
+ORD00555,2025-12-26,CUST0128,North,Chandigarh,Beauty,Moisturizer,5,549,0.0,2745.0,1225,1520.0,Debit Card
+ORD00772,2025-12-27,CUST0247,North,Chandigarh,Home & Kitchen,Desk Lamp,3,1299,0.0,3897.0,2070,1827.0,Net Banking
+ORD01082,2025-12-28,CUST0034,West,Ahmedabad,Home & Kitchen,Storage Organizer,5,899,0.1,4045.5,2150,1895.5,Net Banking
+ORD01088,2025-12-28,CUST0289,Central,Bhopal,Beauty,Moisturizer,2,549,0.0,1098.0,490,608.0,Debit Card
+ORD00347,2025-12-28,CUST0258,South,Bengaluru,Clothing,Cotton T-Shirt,5,599,0.0,2995.0,1300,1695.0,Debit Card
+ORD00265,2025-12-28,CUST0260,South,Hyderabad,Home & Kitchen,Storage Organizer,3,899,0.0,2697.0,1290,1407.0,Credit Card
+ORD00356,2025-12-29,CUST0159,Central,Bhopal,Electronics,USB-C Hub,4,1499,0.0,5996.0,3520,2476.0,Cash
+ORD00145,2025-12-29,CUST0328,East,Bhubaneswar,Home & Kitchen,Water Bottle,1,499,0.1,449.1,220,229.1,Credit Card
+ORD01056,2025-12-30,CUST0344,West,Pune,Home & Kitchen,Storage Organizer,1,899,0.05,854.05,430,424.05,Credit Card
+ORD00161,2025-12-30,CUST0277,North,Delhi,Home & Kitchen,Desk Lamp,5,1299,0.0,6495.0,3450,3045.0,UPI
+ORD00691,2025-12-30,CUST0230,West,Mumbai,Beauty,Face Wash,3,299,0.0,897.0,375,522.0,Net Banking
+ORD00810,2025-12-30,CUST0298,Central,Bhopal,Beauty,Sunscreen,2,399,0.0,798.0,340,458.0,Debit Card
+ORD00511,2025-12-30,CUST0139,East,Kolkata,Electronics,Wireless Mouse,2,799,0.0,1598.0,940,658.0,UPI
+ORD01117,2025-12-30,CUST0240,East,Bhubaneswar,Electronics,USB-C Hub,5,1499,0.05,7120.25,4400,2720.25,UPI
+ORD01169,2025-12-31,CUST0299,Central,Indore,Home & Kitchen,Desk Lamp,5,1299,0.1,5845.5,3450,2395.5,Credit Card
+ORD00401,2025-12-31,CUST0172,West,Pune,Home & Kitchen,Desk Lamp,3,1299,0.1,3507.3,2070,1437.3,UPI
+ORD00820,2025-12-31,CUST0312,East,Kolkata,Clothing,Casual Shirt,3,1199,0.05,3417.15,1680,1737.15,Cash
